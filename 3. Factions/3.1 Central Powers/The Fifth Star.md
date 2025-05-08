@@ -1,10 +1,9 @@
 
-
-|          IMAGE          |
-| :---------------------: |
-|   **The Fifth Star**    |
-| *ROGUE COMMUNARD STATE* |
-|                         |
+| ![[The Fifth Star.png]] |
+| :----------------------------------: |
+|          **The Fifth Star**          |
+|       *ROGUE COMMUNARD STATE*        |
+|     ***"Sunrise, parabellum."***     |
 
 Text
 
@@ -12,7 +11,7 @@ Text
 **ALSO KNOWN AS:** The State, Perikarnassians, The Commune, Mazovians
 **LEADER(S):** The Triumvirate
 **FORM OF GOVERNMENT:** Imperialist Democracy
-**HEADQUARTERS:** Ras Shamra >>  Graad System >> Perikarnassis Sector
+**HEADQUARTERS:** Ras Shamra, Graad System, Perikarnassis Sector
 
 ### **BRANCHES**
 - **The Triumvirate**

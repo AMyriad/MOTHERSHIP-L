@@ -1,9 +1,9 @@
 
-|            IMAGE             |
-| :--------------------------: |
-|   **Smith-Shimano Corpro**   |
-| *TRANSHUMANIST CORPRO-STATE* |
-|  ***"You only need one."***  |
+| ![[Smith-Shimano Corpro.png]] |
+| :----------------------------------: |
+|       **Smith-Shimano Corpro**       |
+|     *TRANSHUMANIST CORPRO-STATE*     |
+|      ***"You only need one."***      |
 
 Text
 

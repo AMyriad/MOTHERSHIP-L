@@ -1,5 +1,5 @@
 
-|                   IMAGE                   |
+|   ![[IPS-Northstar.png]]    |
 | :---------------------------------------: |
 |             **IPS-Northstar**             |
 |   *INTERSTELLAR LOGISTICS CONGLOMERATE*   |
@@ -15,7 +15,7 @@ Test
 
 
 ### **BRANCHES**
-
+- **Northstar Robotics**
 
 ### **KNOWN MEMBERS**
 

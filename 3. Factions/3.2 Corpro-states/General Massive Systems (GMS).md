@@ -1,16 +1,16 @@
 
-|                                            IMAGE                                            |
-| :-----------------------------------------------------------------------------------------: |
-|                                 **General Massive Systems**                                 |
-|                                     *GALACTIC SUPPLIER*                                     |
-| ***"From Earth to the stars, GMS: assured quality, universal licensing, total coverage."*** |
+| ![[General Massive Systems.png]] |
+| :------------------------------: |
+|   **General Massive Systems**    |
+|   *INTERSTELLAR MANUFACTURER*    |
+| ***"From Earth to the stars."*** |
 
 Text
 
 ### **OVERVIEW**
 **ALSO KNOWN AS:** GMS
-**LEADER(S):** The Triumvirate
-**SPECIALIZATION:** Imperialist Democracy
+**LEADER(S):** 
+**FOCUS:** 
 **HEADQUARTERS:** Earth >>  Sol System >> Centauri Sector
 
 

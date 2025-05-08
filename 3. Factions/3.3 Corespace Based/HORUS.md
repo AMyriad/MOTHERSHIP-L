@@ -1,5 +1,5 @@
 
-|                        IMAGE                         |
+|         ![[HORUS.png]]         |
 | :--------------------------------------------------: |
 |                      **HORUS**                       |
 |              *ESOTERIC NET COLLECTIVES*              |
