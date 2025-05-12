@@ -15,11 +15,11 @@
 - Slim frame, stitches on cheek
 - Seems to always be wearing shades and chewing some gum
 
-**KNOWN RELATIONSHIPS:**
-- **[[Anders]]** - Acquaintances.
+**RELATIONSHIPS:**
+- **[[Anders]]** - Have met each other.
 - **[[Maas]]** - Hired by him as a pilot aboard the [[J2C-I Metamorphosis]].
 
-**KNOWN AFFILIATIONS:** None
+**AFFILIATIONS:** None
 
 **APPEARS IN:**
 - **[[0.1 Another Bug Hunt]]**

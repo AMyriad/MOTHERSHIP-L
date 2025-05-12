@@ -15,11 +15,11 @@
 - Medium stature
 - Ugly mug
 
-**KNOWN RELATIONSHIPS:**
-- **[[Anders]]** - Acquaintances.
-- **[[Renfield]]** - Acquaintances.
+**RELATIONSHIPS:**
+- **[[Anders]]** - Have met each other.
+- **[[Renfield]]** - Have met each other.
 
-**KNOWN AFFILIATIONS:**
+**AFFILIATIONS:**
 - The Company - Operations Manager & Corporate Liaison
 
 **APPEARS IN:**

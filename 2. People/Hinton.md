@@ -5,14 +5,14 @@
 | *Samsa VI Android Science Officer* |
 
 # **OVERVIEW**
-**ALIAS(ES):** Unknown
+**ALIAS(ES):** ???
 **PRONOUNS:** He/Him
-**STATUS:** Unknown
-**LAST SEEN:** Unknown
-**DESCRIPTION:** Unknown
+**STATUS:** ???
+**LAST SEEN:** ???
+**DESCRIPTION:** ???
 
-**KNOWN RELATIONSHIPS:** None
+**RELATIONSHIPS:** ???
 
-**KNOWN AFFILIATIONS:** None
+**AFFILIATIONS:** ???
 
-**APPEARS IN:** N/A
+**APPEARS IN:** ???

@@ -15,11 +15,11 @@
 - Broad-faced, stocky build
 - Always wearing olive workers' coveralls
 
-**KNOWN RELATIONSHIPS:**
+**RELATIONSHIPS:**
 - **[[Anders]]** - Acquaintances.
 - **[[Maas]]** - Hired by him as a pilot aboard the [[J2C-I Metamorphosis]].
 
-**KNOWN AFFILIATIONS:** None
+**AFFILIATIONS:** ???
 
 **APPEARS IN:**
 - **[[0.1 Another Bug Hunt]]**
