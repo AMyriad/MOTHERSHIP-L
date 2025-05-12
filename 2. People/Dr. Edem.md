@@ -2,7 +2,7 @@
 |        ![[Error.png]]         |
 | :---------------------------: |
 |         **Dr. Edem**          |
-| *Samsa VI Mission Specialist* |
+| *SAMSA VI MISSION SPECIALIST* |
 
 # **OVERVIEW**
 **ALIAS(ES):** ???

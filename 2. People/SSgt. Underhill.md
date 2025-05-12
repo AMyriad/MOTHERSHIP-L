@@ -1,8 +1,8 @@
 
-|           ![[Error.png]]           |
-| :--------------------------------: |
-|             **Hinton**             |
-| *SAMSA VI ANDROID SCIENCE OFFICER* |
+|       ![[Error.png]]        |
+| :-------------------------: |
+|     **Ssgt. Underhill**     |
+| *SAMSA VI PLATOON SERGEANT* |
 
 # **OVERVIEW**
 **ALIAS(ES):** ???
