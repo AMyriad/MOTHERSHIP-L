@@ -4,18 +4,17 @@
 |          **The Fifth Star**          |
 |       *ROGUE COMMUNARD STATE*        |
 |     ***"Sunrise, parabellum."***     |
-
-Text
-
 # **OVERVIEW**
-**ALSO KNOWN AS:** The State, Perikarnassians, The Commune, Mazovians
+**ALSO KNOWN AS:** The Fifth, The State, Perikarnassians, The Commune, Mazovians
 **LEADER(S):** The Triumvirate
-**FORM OF GOVERNMENT:** Imperialist Democracy
+**FORM OF GOVERNMENT:** Communist Triad
 **HEADQUARTERS:** Ras Shamra, Graad System, Perikarnassis Sector
 
 ### **BRANCHES**
 - **The Triumvirate**
-- **Ministry of Internal Development**
 - **[[Harrison Armory (HA)]]**
 
+
+# **The Last State**
+Nearing the end of the Hercynian Crisis, Union SecComm faced mounting pressure from both 
 

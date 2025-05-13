@@ -1,27 +1,23 @@
 
 |               IMAGE                |
 | :--------------------------------: |
-|      **The Executive Union**       |
+|             **Union**              |
 | *CORPORATE AUTHORITY OF HUMANKIND* |
 |      ***"For all mankind."***      |
-
-Text
-
 # **OVERVIEW**
-**ALSO KNOWN AS:** Union, The XU, The Bureaus
-**LEADER(S):** CentCom
-**FORM OF GOVERNMENT:** Corporatocratic Oligarchy
+**ALSO KNOWN AS:** Union, XU, The Bureaus
+**LEADER(S):** ExComm (or ThirdComm)
+**FORM OF GOVERNMENT:** Bureaucratic Corporatocracy
 **HEADQUARTERS:** Earth, Sol System, Centauri Sector
 
 ### **BRANCHES**
-- **CentCom: Union Central Committee**
+- **ExComm: Union Executive Committee**
 - **UAB: Union Administrative Bureau**
+- **UN: Union Navy**
 - **USB: Union Science Bureau**
-- **UBL: Union Bureau of Law**
+- **DoJ: Department of Justice**
 - **UEB: Union Economic Bureau**
 - **BCA: Bureau of Colonial Administration**
 - **UIB: Union Intelligence Bureau**
-- **[[Watchman's Militia]]**
-- **[[General Massive Systems (GMS)]]**
 
-
+# ****
