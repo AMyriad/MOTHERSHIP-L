@@ -11,7 +11,7 @@ Text
 **ALSO KNOWN AS:** SSC
 **LEADER(S):** 
 **FOCUS:** 
-**HEADQUARTERS:** Ras Shamra >>  Graad System >> Perikarnassis Sector
+**HEADQUARTERS:** N/A
 
 
 ### **BRANCHES**

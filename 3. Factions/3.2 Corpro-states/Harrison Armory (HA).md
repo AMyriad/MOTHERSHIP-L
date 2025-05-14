@@ -7,8 +7,8 @@
 # **OVERVIEW**
 **ALSO KNOWN AS:** HA
 **LEADER(S):** Director General John Creighton-Cruz Harrison III
-**FOCUS:** Advanced military technology and expansion
-**HEADQUARTERS:** Ras Shamra,  Graad System, Perikarnassis Sector
+**FOCUS:** Advanced military tech and 
+**HEADQUARTERS:** Ras Shamra,  Graad System [Perikarnassis Sector]
 
 
 ### **BRANCHES**

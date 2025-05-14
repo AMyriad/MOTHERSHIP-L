@@ -8,7 +8,7 @@
 **ALSO KNOWN AS:** Union, XU, The Bureaus
 **LEADER(S):** ExComm (or ThirdComm)
 **FORM OF GOVERNMENT:** Bureaucratic Corporatocracy
-**HEADQUARTERS:** Earth, Sol System, Centauri Sector
+**HEADQUARTERS:** Earth, Sol System [Centrum Sector]
 
 ### **BRANCHES**
 - **ExComm: Union Executive Committee**

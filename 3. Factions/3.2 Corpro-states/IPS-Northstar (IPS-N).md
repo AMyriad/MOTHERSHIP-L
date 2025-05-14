@@ -11,7 +11,7 @@ Test
 **ALSO KNOWN AS:** IPS-N
 **LEADER(S):** 
 **FOCUS:** 
-**HEADQUARTERS:** Carina >>  Argo Navis System >> Centauri Sector
+**HEADQUARTERS:** Carina, Argo Navis System [Centrum Sector]
 
 
 ### **BRANCHES**

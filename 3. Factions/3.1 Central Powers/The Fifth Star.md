@@ -7,8 +7,8 @@
 # **OVERVIEW**
 **ALSO KNOWN AS:** The Fifth, The State, Perikarnassians, The Commune, Mazovians
 **LEADER(S):** The Triumvirate
-**FORM OF GOVERNMENT:** Communist Triad
-**HEADQUARTERS:** Ras Shamra, Graad System, Perikarnassis Sector
+**FORM OF GOVERNMENT:** Militarist Commune 
+**HEADQUARTERS:** Ras Shamra, Graad System [Perikarnassis Sector]
 
 ### **BRANCHES**
 - **The Triumvirate**
@@ -16,5 +16,5 @@
 
 
 # **The Last State**
-Nearing the end of the Hercynian Crisis, Union SecComm faced mounting pressure from both 
+Following the end of the Hercynian Crisis, Union FirstComm faced mounting pressure from both internal coalitions and the general public. Protests from Centrum to the Core 
 

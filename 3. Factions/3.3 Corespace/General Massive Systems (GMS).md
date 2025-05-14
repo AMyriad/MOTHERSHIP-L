@@ -11,7 +11,7 @@ Text
 **ALSO KNOWN AS:** GMS
 **LEADER(S):** 
 **FOCUS:** 
-**HEADQUARTERS:** Earth >>  Sol System >> Centauri Sector
+**HEADQUARTERS:** Earth, Sol System [Centrum Sector]
 
 
 ### **KNOWN MEMBERS**
