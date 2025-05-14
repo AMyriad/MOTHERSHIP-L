@@ -6,7 +6,7 @@
 | ***"Your friend in an unfriendly sea."*** |
 ### **OVERVIEW**
 **ALSO KNOWN AS:** IPS-N
-**LEADER(S):** Chairman Argo Tulik
+**LEADER(S):** Chief Executive Officer Argo Tuulik
 **HEADQUARTERS:** Carina, Argo Navis System [Centrum Sector]
 **KNOWN FOR:**
 - 

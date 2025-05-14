@@ -1,11 +1,11 @@
 
-|             IMAGE             |
+|                               |
 | :---------------------------: |
 |           **Union**           |
 | *CENTRAL CORPORATE AUTHORITY* |
 |   ***"For all mankind."***    |
 # **OVERVIEW**
-**ALSO KNOWN AS:** Union, XU, The Bureaus
+**ALSO KNOWN AS:** The Bureaus
 **LEADER(S):** ExComm (or ThirdComm)
 **FORM OF GOVERNMENT:** Bureaucratic Corporatocracy
 **HEADQUARTERS:** Earth, Sol System [Centrum Sector]

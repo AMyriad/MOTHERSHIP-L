@@ -10,10 +10,10 @@
 **STATUS:** Alive
 **LAST SEEN:** Aboard the [[J2C-I Metamorphosis]]
 **DESCRIPTION:**
-- Annoying, nasally voice
+- Nasally voice
 - Dark hair w/ stubble
 - Medium stature
-- Ugly mug
+- Corporate officer's uniform
 
 **RELATIONSHIPS:**
 - **[[Anders]]** - Have met each other.

@@ -1,5 +1,5 @@
 
-| ![[The Fifth Star.png]] |
+| ![[Fifth Star.png]] |
 | :----------------------------------: |
 |          **The Fifth Star**          |
 |       *ROGUE COMMUNARD STATE*        |

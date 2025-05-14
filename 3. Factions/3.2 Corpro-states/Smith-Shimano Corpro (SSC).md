@@ -6,7 +6,7 @@
 |      ***"You only need one."***      |
 ### **OVERVIEW**
 **ALSO KNOWN AS:** SSC
-**LEADER(S):** Constellar Congress
+**LEADER(S):** The Constellar Congress
 **HEADQUARTERS:** Constellar Worlds
 **KNOWN FOR:**
 - 
