@@ -1,17 +1,15 @@
 
-|   ![[IPS-Northstar.png]]    |
+|   ![[IPS-N.png]]    |
 | :---------------------------------------: |
 |             **IPS-Northstar**             |
-|   *INTERSTELLAR LOGISTICS CONGLOMERATE*   |
+|   *INTERSTELLAR SHIPPING CONGLOMERATE*    |
 | ***"Your friend in an unfriendly sea."*** |
-
-Test
-
 ### **OVERVIEW**
 **ALSO KNOWN AS:** IPS-N
-**LEADER(S):** 
-**FOCUS:** 
+**LEADER(S):** Chairman Argo Tulik
 **HEADQUARTERS:** Carina, Argo Navis System [Centrum Sector]
+**KNOWN FOR:**
+- 
 
 
 ### **BRANCHES**

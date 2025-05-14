@@ -5,7 +5,7 @@
 |       *ROGUE COMMUNARD STATE*        |
 |     ***"Sunrise, parabellum."***     |
 # **OVERVIEW**
-**ALSO KNOWN AS:** The Fifth, The State, Perikarnassians, The Commune, Mazovians
+**ALSO KNOWN AS:** The State, The Fifth, Perikarnassians, The Commune, Mazovians
 **LEADER(S):** The Triumvirate
 **FORM OF GOVERNMENT:** Militarist Commune 
 **HEADQUARTERS:** Ras Shamra, Graad System [Perikarnassis Sector]

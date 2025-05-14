@@ -1,5 +1,5 @@
 
-|   ![[Error.png]]    |
+|   ![[Anders.png]]   |
 | :-----------------: |
 |     **Anders**      |
 | *EXPERIENCED PILOT* |

@@ -2,16 +2,14 @@
 | ![[General Massive Systems.png]] |
 | :------------------------------: |
 |   **General Massive Systems**    |
-|   *INTERSTELLAR MANUFACTURER*    |
+|      *MANFUACTURING TITAN*       |
 | ***"From Earth to the stars."*** |
-
-Text
-
 ### **OVERVIEW**
 **ALSO KNOWN AS:** GMS
 **LEADER(S):** 
-**FOCUS:** 
 **HEADQUARTERS:** Earth, Sol System [Centrum Sector]
+**KNOWN FOR:**
+- 
 
 
 ### **KNOWN MEMBERS**

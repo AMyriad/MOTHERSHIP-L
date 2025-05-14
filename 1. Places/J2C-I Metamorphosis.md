@@ -1,15 +1,15 @@
 
 
-|                IMAGE                |
-| :---------------------------------: |
-|      **J2C-I "Metamorphosis"**      |
-| *COMPANY-OWNED EXECUTIVE TRANSPORT* |
-|       THR: 35 BAT: 5 SYS: 35        |
+| ![[Executive Class Transport.png]] |
+| :----------------------------------: |
+|      **J2C-I "Metamorphosis"**       |
+| *COMPANY-OWNED EXECUTIVE TRANSPORT*  |
+|        THR: 35 BAT: 5 SYS: 35        |
 
 # **OVERVIEW**
 **CLASS:** J2C-1 Executive Transport *(Sato Systems GS - Grail VI)*
-**LAST SEEN:** [[Samsa VI]] >> Samsa System >> Yunaph Sector >> Rimspace
-**OWNER(S):** The Company
+**LAST SEEN:** [[Samsa VI]], Samsa System [Yunaph Sector]
+**OWNER:** The Company
 
 | **CREW CAPACITY** | **FUEL CAPACITY** | **CRYOPODS** | **ESCAPE PODS** |
 | :---------------: | :---------------: | :----------: | :-------------: |

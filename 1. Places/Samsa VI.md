@@ -6,7 +6,7 @@
 
 # **OVERVIEW**
 **CLASS:** Planet *(Jungle World)*
-**LOCATION:** Samsa System, Yunaph Cluster (Rimspace)
+**LOCATION:** Samsa System [Yunaph Sector]
 **OWNER(S):** None
 
 **SIZE:** Midsized *(7400km diameter)*

@@ -13,13 +13,13 @@
 - Chatty, enthusiastic tone
 - Brown, slicked back hair
 - Slim frame, stitches on cheek
-- Seems to always be wearing shades and chewing some gum
+- Usually in a jacket, always has on a pair shades and some gum
 
 **RELATIONSHIPS:**
 - **[[Anders]]** - Have met each other.
 - **[[Maas]]** - Hired by him as a pilot aboard the [[J2C-I Metamorphosis]].
 
-**AFFILIATIONS:** None
+**AFFILIATIONS:** ???
 
 **APPEARS IN:**
 - **[[0.1 Another Bug Hunt]]**

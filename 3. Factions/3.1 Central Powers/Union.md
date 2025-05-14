@@ -1,9 +1,9 @@
 
-|               IMAGE                |
-| :--------------------------------: |
-|             **Union**              |
-| *CORPORATE AUTHORITY OF HUMANKIND* |
-|      ***"For all mankind."***      |
+|             IMAGE             |
+| :---------------------------: |
+|           **Union**           |
+| *CENTRAL CORPORATE AUTHORITY* |
+|   ***"For all mankind."***    |
 # **OVERVIEW**
 **ALSO KNOWN AS:** Union, XU, The Bureaus
 **LEADER(S):** ExComm (or ThirdComm)
@@ -11,7 +11,7 @@
 **HEADQUARTERS:** Earth, Sol System [Centrum Sector]
 
 ### **BRANCHES**
-- **ExComm: Union Executive Committee**
+- **ExComm: The Executive Committee**
 - **UAB: Union Administrative Bureau**
 - **UN: Union Navy**
 - **USB: Union Science Bureau**
@@ -20,4 +20,3 @@
 - **BCA: Bureau of Colonial Administration**
 - **UIB: Union Intelligence Bureau**
 
-# ****

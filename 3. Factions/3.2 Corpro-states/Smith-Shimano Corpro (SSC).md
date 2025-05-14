@@ -1,17 +1,15 @@
 
-| ![[Smith-Shimano Corpro.png]] |
-| :---------------------------: |
-|   **Smith-Shimano Corpro**    |
-| *TRANSHUMANIST CORPRO-STATE*  |
-|  ***"You only need one."***   |
-
-Text
-
+| ![[SSC.png]] |
+| :----------------------------------: |
+|       **Smith-Shimano Corpro**       |
+|     *TRANSHUMANIST CORPRO-STATE*     |
+|      ***"You only need one."***      |
 ### **OVERVIEW**
 **ALSO KNOWN AS:** SSC
 **LEADER(S):** Constellar Congress
-**FOCUS:** 
 **HEADQUARTERS:** Constellar Worlds
+**KNOWN FOR:**
+- 
 
 
 ### **BRANCHES**

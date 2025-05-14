@@ -1,14 +1,16 @@
 
-|        ![[Harrison Armory.png]]        |
-| :------------------------------------: |
-|          **Harrison Armory**           |
-| *IMPERIAL MILITARY-INDUSTRIAL COMPLEX* |
-|      ***"Superior by design."***       |
+|               ![[HA.png]]                |
+| :--------------------------------------: |
+|           **Harrison Armory**            |
+| *FIFTH STAR MILITARY-INDUSTRIAL COMPLEX* |
+|       ***"Superior by design."***        |
 # **OVERVIEW**
 **ALSO KNOWN AS:** HA
 **LEADER(S):** Director General John Creighton-Cruz Harrison III
-**FOCUS:** Advanced military tech and 
 **HEADQUARTERS:** Ras Shamra,  Graad System [Perikarnassis Sector]
+**KNOWN FOR:**
+- Advanced military technology
+- 
 
 
 ### **BRANCHES**
