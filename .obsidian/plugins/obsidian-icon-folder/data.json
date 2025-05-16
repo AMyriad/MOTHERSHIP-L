@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiActivity",
       "LiAtom",
       "LiAudioLines",
       "LiArchive",
-      "LiAlignLeft",
-      "LiAlignHorizontalSpaceBetween"
+      "LiAlignLeft"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -37,10 +37,9 @@
   "0. Missions": "LiAlertTriangle",
   "1. Places": "LiAlignEndHorizontal",
   "2. People": "LiAnnoyed",
-  "4. Threats": "LiActivity",
   "Landing Page.md": "LiAperture",
   "Abstract.md": "LiAxis3d",
   "(Images)": "LiBadge",
-  "5. Data": "LiAlignLeft",
-  "3. Factions": "LiAtom"
+  "3. Threats": "LiActivity",
+  "4. Data": "LiAlignLeft"
 }
