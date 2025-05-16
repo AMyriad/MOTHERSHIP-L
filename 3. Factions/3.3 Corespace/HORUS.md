@@ -4,10 +4,7 @@
 |                      **HORUS**                       |
 |              *ESOTERIC NET COLLECTIVES*              |
 | ***"ACCESS IS YOURS. AS LONG AS YOU CAN KEEP IT."*** |
-
-Text
-
-### **OVERVIEW**
+# **OVERVIEW**
 **ALSO KNOWN AS:** SSC
 **LEADER(S):** None
 **HEADQUARTERS:** None

@@ -4,7 +4,7 @@
 |       **Smith-Shimano Corpro**       |
 |     *TRANSHUMANIST CORPRO-STATE*     |
 |      ***"You only need one."***      |
-### **OVERVIEW**
+# **OVERVIEW**
 **ALSO KNOWN AS:** SSC
 **LEADER(S):** The Constellar Congress
 **HEADQUARTERS:** Constellar Worlds

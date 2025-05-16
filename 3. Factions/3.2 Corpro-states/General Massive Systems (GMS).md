@@ -4,7 +4,7 @@
 |   **General Massive Systems**    |
 |      *MANUFACTURING TITAN*       |
 | ***"From Earth to the stars."*** |
-### **OVERVIEW**
+# **OVERVIEW**
 **ALSO KNOWN AS:** GMS
 **LEADER(S):** 
 **HEADQUARTERS:** Earth, Sol System [Centrum Sector]

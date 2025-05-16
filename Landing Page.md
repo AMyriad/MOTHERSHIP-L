@@ -1,7 +1,7 @@
 
 |          ![[Missions.png]]          |         ![[Places.png]]         |         ![[People.png]]          |             ![[Factions.png]]             |         ![[Threats.png]]          |
 | :---------------------------------: | :-----------------------------: | :------------------------------: | :---------------------------------------: | :-------------------------------: |
-| **[[0.0 Mission Index\|MISSIONS]]** | **[[1.0 Place Index\|PLACES]]** | **[[2.0 People Index\|PEOPLE]]** | **[[3.0 Faction Index\|FACTIONS (WIP)]]** | **[[3.0 Threat Index\|THREATS]]** |
+| **[[0.0 Mission Index\|MISSIONS]]** | **[[1.0 Place Index\|PLACES]]** | **[[2.0 People Index\|PEOPLE]]** | **[[3.0 Faction Index\|FACTIONS (WIP)]]** | **[[4.0 Threat Index\|THREATS]]** |
 
 | **ACTIVE ROSTER (6)**               | **ROLE**                     | **LOCATION** | **STATUS** | **HIGHSCORE** |
 | ----------------------------------- | ---------------------------- | ------------ | :--------: | :-----------: |
@@ -22,6 +22,6 @@
 
 | **MEMORIAL HALL (1)**        | **ROLE**                | **LOCATION** |             **CAUSE OF DEATH**             | **HIGHSCORE** |
 | ---------------------------- | ----------------------- | ------------ | :----------------------------------------: | :-----------: |
-| ELAM WOJCIECHOWSKI *(Solus)* | SCIENTIST *(ECOLOGIST)* | [[Samsa VI]] | Face mauled by [[3.1 Carcinids\|carcinid]] |       0       |
+| ELAM WOJCIECHOWSKI *(Solus)* | SCIENTIST *(ECOLOGIST)* | [[Samsa VI]] | Face mauled by [[4.1 Carcinids\|carcinid]] |       0       |
 
 ---
