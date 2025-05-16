@@ -7,12 +7,15 @@
 # **OVERVIEW**
 **ALSO KNOWN AS:** The State, The Fifth, Perikarnassians, The Commune, Mazovians
 **LEADER(S):** The Triumvirate
-**FORM OF GOVERNMENT:** Militarist Commune 
+**FORM OF GOVERNMENT:** Utopian Communist State
 **HEADQUARTERS:** Ras Shamra, Graad System [Perikarnassis Sector]
 
-### **BRANCHES**
+### **SUBGROUPS**
 - **The Triumvirate**
 - **[[Harrison Armory (HA)]]**
+
+### **AFFILIATED PEOPLE**
+- ???
 
 
 # **The Last State**

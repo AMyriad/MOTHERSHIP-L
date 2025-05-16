@@ -7,17 +7,18 @@
 # **OVERVIEW**
 **ALSO KNOWN AS:** HA
 **LEADER(S):** Director General John Creighton-Cruz Harrison III
-**HEADQUARTERS:** Ras Shamra,  Graad System [Perikarnassis Sector]
+**HEADQUARTERS:** Ras Shamra, Graad System [Perikarnassis Sector]
 **KNOWN FOR:**
-- Advanced military technology
-- 
+- Bleeding-edge military technology.
+- Corporate colonialism, undermining pro-Union sentiment.
+- Defecting to the Fifth Star.
 
-
-### **BRANCHES**
+### **SUBSIDIARIES**
 - **Colonial Legionnate**
-- **The Think Tank**
-- 
+- **Think Tank**
 
-### **KNOWN MEMBERS**
+### **AFFILIATED PEOPLE**
+- ???
 
 
+# **TITLE**

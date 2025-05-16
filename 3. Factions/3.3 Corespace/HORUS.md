@@ -1,5 +1,5 @@
 
-|                    ![[HORUS.png]]                    |
+|         ![[HORUS.png]]         |
 | :--------------------------------------------------: |
 |                      **HORUS**                       |
 |              *ESOTERIC NET COLLECTIVES*              |
@@ -9,11 +9,12 @@
 **LEADER(S):** None
 **HEADQUARTERS:** None
 **KNOWN FOR:**
-- 
+- Being a decentralized collective with ties to the deepNET.
+- Distributing corporate secrets and Centrum tech to the diaspora.
+- Following an enigmatic NET entity known only as "***RA***".
 
-
-### **BRANCHES**
-
+### **SUBGROUPS**
+- **The Adherents of RA**
 
 ### **KNOWN MEMBERS**
 

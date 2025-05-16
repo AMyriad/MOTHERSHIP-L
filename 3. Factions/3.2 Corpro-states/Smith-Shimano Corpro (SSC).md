@@ -9,11 +9,16 @@
 **LEADER(S):** The Constellar Congress
 **HEADQUARTERS:** Constellar Worlds
 **KNOWN FOR:**
-- 
+- High-end luxury consumer goods and machinery.
+- Genetics research and tailored lineages.
+- Human-machine interfaces, cyberware, and slickware.
 
-
-### **BRANCHES**
-
+### **SUBSIDIARIES**
+- **Constellar Congress**
+- **Constellar Security**
+- **Constellar Midnights**
+- **FBD: Foreign Bodies Department**
+- **CDC: Congressional Diplomatic Corps**
 
 ### **KNOWN MEMBERS**
 

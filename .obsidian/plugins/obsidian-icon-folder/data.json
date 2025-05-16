@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiAtom",
-      "LiAudioLines",
-      "LiArchive",
-      "LiAlignLeft",
-      "LiAlignHorizontalSpaceBetween"
+      "LiAperture",
+      "LiAlignStartVertical",
+      "LiAirplay",
+      "LiAsterisk",
+      "LiBadge"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -40,5 +40,7 @@
   "Landing Page.md": "LiAperture",
   "Abstract.md": "LiAxis3d",
   "(Images)": "LiBadge",
-  "3. Factions": "LiAtom"
+  "3. Factions": "LiAtom",
+  "4. Threats": "LiActivity",
+  "5. Data": "LiAlignLeft"
 }

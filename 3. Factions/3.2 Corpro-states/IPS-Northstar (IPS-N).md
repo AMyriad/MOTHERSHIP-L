@@ -6,15 +6,20 @@
 | ***"Your friend in an unfriendly sea."*** |
 # **OVERVIEW**
 **ALSO KNOWN AS:** IPS-N
-**LEADER(S):** Argo Tuulik, CEO
+**LEADER(S):** Chief Executive Officer Argo Tuulik
 **HEADQUARTERS:** Carina, Argo Navis System [Centrum Sector]
 **KNOWN FOR:**
-- 
+- Being the largest logistics, transport, and freight handler in corespace.
+- An expansionist policy furthered their staggeringly massive - and perhaps the biggest - fleets of freight and military ships.
+- Managing the largest anti-piracy force in space while backing others.
 
 
-### **BRANCHES**
-- **Northstar Robotics**
+### **SUBSIDIARIES**
+- **Northstar Engineering**
+- **Northstar Realignment**
 
-### **KNOWN MEMBERS**
+### **AFFILIATED PEOPLE**
+- ???
 
 
+# **TITLE**
