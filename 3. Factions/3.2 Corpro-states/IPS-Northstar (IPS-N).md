@@ -17,7 +17,9 @@
 ### **SUBDIVISIONS**
 - **Northstar Engineering**
 - **Northstar Realignment**
-- **Titan/Enceladus Field Project**
+  A relatively minor humanitarian mission, and subsidiary of IPS-N, is Northstar Realignment. From education centers to entire habitation blocks found across stations in orbit, the Northstar Realignment program is dedicated to helping interstellar travelers returning from particularly long flights who, as a result of relativistic time dilation, become out of touch with the modern state of the galaxy from when they first began their voyage. Northstar Realignment is also known to operate on some worlds and orbital installations dedicated to this form of temporal rehabilitation as retirement homes.
+
+- **Titan-Enceladus Field Project**
 
 ### **AFFILIATED PEOPLE**
 - ???
