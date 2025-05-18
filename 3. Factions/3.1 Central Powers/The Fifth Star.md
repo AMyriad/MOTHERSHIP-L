@@ -10,7 +10,7 @@
 **FORM OF GOVERNMENT:** Utopian Communist State
 **HEADQUARTERS:** Ras Shamra, Graad System [Perikarnassis Sector]
 
-### **SUBGROUPS**
+### **BRANCHES**
 - **The Triumvirate**
 - **[[Harrison Armory (HA)]]**
 
@@ -18,6 +18,6 @@
 - ???
 
 
-# **The Last State**
+# **THE LAST STATE**
 Following the end of the Hercynian Crisis, Union FirstComm faced mounting pressure from both internal coalitions and the general public. Protests from Centrum to the Core 
 

@@ -13,7 +13,7 @@
 - Corporate colonialism, undermining pro-Union sentiment.
 - Defecting to the Fifth Star.
 
-### **SUBSIDIARIES**
+### **SUBDIVISIONS**
 - **Colonial Legionnate**
 - **Think Tank**
 
@@ -21,4 +21,4 @@
 - ???
 
 
-# **TITLE**
+# **THE EMPEROR'S ARMORY**

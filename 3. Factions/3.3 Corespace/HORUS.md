@@ -5,7 +5,7 @@
 |              *ESOTERIC NET COLLECTIVES*              |
 | ***"ACCESS IS YOURS. AS LONG AS YOU CAN KEEP IT."*** |
 # **OVERVIEW**
-**ALSO KNOWN AS:** SSC
+**ALSO KNOWN AS:** ??? (HOR???)
 **LEADER(S):** None
 **HEADQUARTERS:** None
 **KNOWN FOR:**

@@ -13,14 +13,14 @@
 - Playing a large role in Union politics.
 - Holding the most territory out of any corpro-state across corespace.
 
-### **SUBSIDIARIES**
+### **SUBDIVISIONS**
 - ???
 
 ### **AFFILIATED PEOPLE**
 - ???
 
 
-# **TITLE**
+# **TITAN, INCORPORATED**
 
 
 

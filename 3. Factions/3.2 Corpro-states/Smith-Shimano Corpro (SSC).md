@@ -13,7 +13,7 @@
 - Genetics research and tailored lineages.
 - Human-machine interfaces, cyberware, and slickware.
 
-### **SUBSIDIARIES**
+### **SUBDIVISIONS**
 - **Constellar Congress**
 - **Constellar Security**
 - **Constellar Midnights**

@@ -14,9 +14,10 @@
 - Managing the largest anti-piracy force in space while backing others.
 
 
-### **SUBSIDIARIES**
+### **SUBDIVISIONS**
 - **Northstar Engineering**
 - **Northstar Realignment**
+- **Titan/Enceladus Field Project**
 
 ### **AFFILIATED PEOPLE**
 - ???
