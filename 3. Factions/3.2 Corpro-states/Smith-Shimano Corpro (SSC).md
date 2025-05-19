@@ -10,7 +10,7 @@
 **HEADQUARTERS:** Constellar Worlds
 **KNOWN FOR:**
 - High-end luxury consumer goods and machinery.
-- Genetics research and tailored lineages.
+- Genetics research and tailored lines.
 - Human-machine interfaces, cyberware, and slickware.
 
 ### **SUBDIVISIONS**
