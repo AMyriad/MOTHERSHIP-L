@@ -13,9 +13,11 @@
 - Distributing corporate secrets and Centrum tech to the diaspora.
 - Following an enigmatic NET entity known only as "***RA***".
 
+### **AFFILIATED PEOPLE**
+- ???
+
 ### **SUBGROUPS**
 - **The Adherents of RA**
 
-### **KNOWN MEMBERS**
 
 

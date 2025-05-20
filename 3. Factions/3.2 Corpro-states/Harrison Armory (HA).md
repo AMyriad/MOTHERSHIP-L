@@ -13,12 +13,13 @@
 - Corporate colonialism, undermining pro-Union sentiment.
 - Defecting to the Fifth Star.
 
+### **AFFILIATED PEOPLE**
+- ???
+
 ### **SUBDIVISIONS**
 - **Colonial Legionnate**
 - **Think Tank**
 
-### **AFFILIATED PEOPLE**
-- ???
 
 
 # **TITLE**

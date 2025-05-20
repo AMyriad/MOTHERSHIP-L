@@ -13,6 +13,9 @@
 - Genetics research and tailored lines.
 - Human-machine interfaces, cyberware, and slickware.
 
+### **AFFILIATED PEOPLE**
+- ???
+
 ### **SUBDIVISIONS**
 - **Constellar Congress**
 - **Constellar Security**
@@ -20,6 +23,5 @@
 - **FBD: Foreign Bodies Department**
 - **CDC: Congressional Diplomatic Corps**
 
-### **KNOWN MEMBERS**
 
 

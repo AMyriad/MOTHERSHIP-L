@@ -13,6 +13,8 @@
 - An expansionist policy furthered their staggeringly massive - and perhaps the biggest - fleets of freight and military ships.
 - Managing the largest anti-piracy force in space while backing others.
 
+### **AFFILIATED PEOPLE**
+- ???
 
 ### **SUBDIVISIONS**
 - **Northstar Engineering**
@@ -21,8 +23,7 @@
 
 - **Titan-Enceladus Field Project**
 
-### **AFFILIATED PEOPLE**
-- ???
+
 
 
 # **TITLE**

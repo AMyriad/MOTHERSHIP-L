@@ -10,12 +10,13 @@
 **FORM OF GOVERNMENT:** Utopian Communist State
 **HEADQUARTERS:** Ras Shamra, Graad System [Perikarnassis Sector]
 
+### **AFFILIATED PEOPLE**
+- ???
+
 ### **BRANCHES**
 - **The Triumvirate**
 - **[[Harrison Armory (HA)]]**
-
-### **AFFILIATED PEOPLE**
-- ???
+- **Triangulator Division**
 
 
 # **THE LAST STATE**
