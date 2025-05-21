@@ -15,8 +15,9 @@
 
 ### **BRANCHES**
 - **The Triumvirate**
+- **Ministry of Labor**
 - **[[Harrison Armory (HA)]]**
-- **Triangulator Division**
+- **Angulator Corps**
 
 
 # **THE LAST STATE**

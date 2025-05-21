@@ -19,7 +19,6 @@
 ### **SUBDIVISIONS**
 - **Constellar Congress**
 - **Constellar Security**
-- **Constellar Midnights**
 - **FBD: Foreign Bodies Department**
 - **CDC: Congressional Diplomatic Corps**
 
