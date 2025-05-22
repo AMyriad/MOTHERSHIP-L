@@ -36,10 +36,3 @@
 
 # **KING OF KINGS OF KINGS...**
 Throughout history, through corporate wars, scientific breakthroughs, and cultural upheaval, there has been but one immutable constant: Union, the galactic hegemony. Luna and Mars, Mercury and Venus. Saturn, Jupiter, Neptune, and Uranus. Phobos and Deimos. Io, Europa, Ganymede, and Callisto. Titan and Enceladus. These worlds strung in their orbit around Sol are the diadem atop which Earth rests, the seat of Union's power and humankind's ancient heart. From Earth, Union controls the three levers of the galaxy: credits, NHPs, and the omninet. Without these levers, and without Union, the galaxy would fall into chaos.
-
-History recounts Union's rise to power brought about the end of the age of the state. Nations, as the stories in Union's museums go, were 
-
-
-
-Throughout history since the Old Age, through corporate wars, scientific milestones, and cultural upheaval, there has always been and always will be one constant: Union. As is proudly claimed in their museums, Union's founding came at the end of an era - one it brought about itself because of its creation. As the story goes, nation-states and the coalitions they formed spearheaded the earliest days of interstellar expansion. When travel was limited to sublight speeds, and pioneering but to the handful of generation ships ever built, there came a gradual but great shift in capital and power. While ministers and presidents argued over policy and politics, corporations at the forefront of humankind's starward reach grew fat. They were singleminded and driven by only the engines of capital - exponentially growing capital, as from each and every orbital installation, colonial export, and contract came the capacity to sustain more. And at a critical breaking point on the galactic stage, the titans of the market conspired . realizing their efforts could continue unimpeded if they finally broke the restraints of nations that governed them. 
-
