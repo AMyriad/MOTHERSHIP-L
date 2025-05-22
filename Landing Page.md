@@ -1,6 +1,4 @@
 
-# **CAMPAIGN STATUS**
-
 | **CREW COUNT** | **CREW STATUS** | **CREW LOCATION**      | **SHIPS** | **MECHS** | **CURRENT YEAR** |
 | -------------- | --------------- | ---------------------- | --------- | --------- | ---------------- |
 | 6 PCs          | EMPLOYED        | [[Samsa VI\|SAMSA VI]] | NONE      | NONE      | 994u             |
