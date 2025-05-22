@@ -15,13 +15,10 @@
 
 ### **BRANCHES**
 - **The Triumvirate**
-- **Ministry of Labor**
-- **[[Harrison Armory (HA)]]**
-- **Angulator Corps**
 
 
 # **THE LAST STATE**
-Following the aftermath of the Hercynian Crisis, Union's Executive Committee faced mounting pressure from both internal groups and the general public; hundreds of worlds from Centrum to the Core erupted in long continuous protests and marches, with . Protests from 333
+Following the aftermath of the Hercynian Crisis, Union's Executive Committee faced mounting pressure from both internal groups and the general public; hundreds of worlds from Centrum to the Core erupted in long continuous protests and marches, with . Protests from 
 
 Following the PISTON-1 attacks, hundreds of worlds throughout the Diaspora erupted into protest. 
 

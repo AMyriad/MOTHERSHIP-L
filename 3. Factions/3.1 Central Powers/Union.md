@@ -4,7 +4,7 @@
 | *CENTRAL CORPORATE AUTHORITY* |
 |   ***"For all mankind."***    |
 # **OVERVIEW**
-**ALSO KNOWN AS:** The Bureaus, The Executive Commitee
+**ALSO KNOWN AS:** Bureaus, Centrufascists, ExComm, ThirdComm
 **LEADER(S):** ExComm (or ThirdComm)
 **FORM OF GOVERNMENT:** Bureaucratic Corporatocracy
 **HEADQUARTERS:** Earth, Sol System [Centrum Sector]
@@ -27,14 +27,17 @@
   Union's Navy is a sprawling, carefully administered organization that focuses on projecting Centrum's power to all corners of Corespace and beyond. It accomplishes this with a (relatively) small fleet of capital- and supercapital-class ships, supported by vast fleets of standardized, integrated auxiliary ships drawn from the navies of member-corporations.
 
 - **USB: Union Science Bureau**
-- **DoJ: Department of Justice**
+- **UBJ: Union Bureau of Justice**
 - **UEB: Union Economic Bureau**
 - **UIB: Union Intelligence Bureau**
+- **USMB: Union Structural Management Bureau**
 
 
 
 # **KING OF KINGS OF KINGS...**
-Throughout history, through corporate wars, scientific breakthroughs, and cultural upheaval, there has been but one immutable constant: Union, the galactic hegemony. Luna and Mars, Mercury and Venus. Saturn, Jupiter, Neptune, and Uranus. Phobos and Deimos. Io, Europa, Ganymede, and Callisto. Titan and Enceladus. These worlds strung in their orbit around Sol are the diadem atop which Earth rests, the seat of Union's power and humankind's ancient heart. From Earth, Union controls 
+Throughout history, through corporate wars, scientific breakthroughs, and cultural upheaval, there has been but one immutable constant: Union, the galactic hegemony. Luna and Mars, Mercury and Venus. Saturn, Jupiter, Neptune, and Uranus. Phobos and Deimos. Io, Europa, Ganymede, and Callisto. Titan and Enceladus. These worlds strung in their orbit around Sol are the diadem atop which Earth rests, the seat of Union's power and humankind's ancient heart. From Earth, Union controls the three levers of the galaxy: credits, NHPs, and the omninet. Without these levers, and without Union, the galaxy would fall into chaos.
+
+History recounts Union's rise to power brought about the end of the age of the state. Nations, as the stories in Union's museums go, were 
 
 
 
