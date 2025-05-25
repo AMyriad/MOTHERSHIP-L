@@ -1,18 +1,9 @@
 
 | **CREW COUNT** | **CREW STATUS** | **CREW LOCATION**      | **SHIPS** | **MECHS** | **CURRENT YEAR** |
 | -------------- | --------------- | ---------------------- | --------- | --------- | ---------------- |
-| 6 PCs          | EMPLOYED        | [[Samsa VI\|SAMSA VI]] | NONE      | NONE      | 994u             |
+| 6 PCs          | EMPLOYED        | [[Samsa VI\|SAMSA VI]] | NONE      | NONE      | 2256u            |
 
-| **POINT**              | **STATUS**       |
-| ---------------------- | ---------------- |
-| *MONARCH STATUS*       | TESTING          |
-| *MINOTAUR STATUS*      | CAPTIVE          |
-| *GODS STATUS*          | NOT YET MANIFEST |
-|                        |                  |
-| *UNION STATUS*         | SPRAWLING        |
-| *CORPRO-STATES STATUS* | SPRAWLING        |
-|                        |                  |
-| *VOID STATUS*          | NOT YET MANIFEST |
+
 
 ![[0.0 Mission Index]]
 

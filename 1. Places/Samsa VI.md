@@ -11,7 +11,7 @@
 
 **SIZE:** Midsized *(7400km diameter)*
 **TEMPERATURE:** Temperate *(avg. 20c)*
-**ATMOSPHERE:** Moderate, damp *(Complex weather patterns, frequent rainstorms)*
+**ATMOSPHERE:** Thick, Humid *(Complex weather patterns, frequent rainstorms)*
 **GRAVITY:** Standard *(1.19g)*
 **HOURS PER SOL:** 19 *(1/4 day-night ratio)*
 

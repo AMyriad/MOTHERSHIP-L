@@ -7,7 +7,7 @@
 |        THR: 35 BAT: 5 SYS: 35        |
 
 # **OVERVIEW**
-**CLASS:** J2C-1 Executive Transport *(Sato Systems GS - Grail VI)*
+**CLASS:** J2C-1 Executive Transport *(Sato Systems GS Grail VI)*
 **LAST SEEN:** [[Samsa VI]], Samsa System [Yunaph Sector]
 **OWNER:** The Company
 
