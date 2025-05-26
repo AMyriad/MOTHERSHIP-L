@@ -6,7 +6,7 @@
 
 # **OVERVIEW**
 **CLASS:** Planet *(Jungle World)*
-**LOCATION:** Samsa System [Yunaph Sector]
+**LOCATION:** Samsa System, Viczek Cluster [Yunaph Sector]
 **OWNER(S):** None
 
 **SIZE:** Midsized *(7400km diameter)*

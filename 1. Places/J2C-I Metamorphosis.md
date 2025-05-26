@@ -8,7 +8,7 @@
 
 # **OVERVIEW**
 **CLASS:** J2C-1 Executive Transport *(Sato Systems GS - Grail VI)*
-**LAST SEEN:** [[Samsa VI]], Samsa System [Yunaph Sector]
+**LAST SEEN:** [[Samsa VI]]
 **OWNER:** The Company
 
 | **CREW CAPACITY** | **FUEL CAPACITY** | **CRYOPODS** | **ESCAPE PODS** |

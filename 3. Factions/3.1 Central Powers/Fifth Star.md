@@ -8,7 +8,7 @@
 **ALSO KNOWN AS:** The State, The Fifth, Perikarnassians, The Commune, Mazovians
 **LEADER(S):** The Triumvirate
 **FORM OF GOVERNMENT:** Utopian Communist State
-**HEADQUARTERS:** Ras Shamra, Graad System [Perikarnassis Sector]
+**HEADQUARTERS:** Ras Shamra, Graad System, Mazov Cluster [Perikarnassis Sector]
 
 ### **AFFILIATED PEOPLE**
 - ???

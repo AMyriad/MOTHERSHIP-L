@@ -7,7 +7,7 @@
 **ALSO KNOWN AS:** Bureaus, Centrufascists, ExComm, ThirdComm
 **LEADER(S):** ExComm (or ThirdComm)
 **FORM OF GOVERNMENT:** Bureaucratic Corporatocracy
-**HEADQUARTERS:** Earth, Sol System [Centrum Sector]
+**HEADQUARTERS:** Earth, Sol System, Sol Cluster [Centrum Sector]
 
 ### **AFFILIATED PEOPLE**
 - ???
