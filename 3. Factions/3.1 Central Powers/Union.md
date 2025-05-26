@@ -14,6 +14,8 @@
 
 ### **BRANCHES**
 - **ExComm: The Executive Committee**
+  The Executive Committee is Union's executive body. Spread across various campuses on Earth, it is a vast administrative body eclipsing all other departments in organizational scope - though note in size.
+
 
 
 - **UAB: Union Administrative Bureau**
@@ -27,6 +29,8 @@
   Union's Navy is a sprawling, carefully administered organization that focuses on projecting Centrum's power to all corners of Corespace and beyond. It accomplishes this with a (relatively) small fleet of capital- and supercapital-class ships, supported by vast fleets of standardized, integrated auxiliary ships drawn from the navies of member-corporations.
 
 - **USB: Union Science Bureau**
+
+
 - **UBJ: Union Bureau of Justice**
 - **UEB: Union Economic Bureau**
 - **UIB: Union Intelligence Bureau**
