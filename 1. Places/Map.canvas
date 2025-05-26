@@ -1,0 +1,40 @@
+{
+  "edges": [
+    {
+      "fromNode": "db30dae54218bb26",
+      "fromSide": "right",
+      "id": "05568e11234c1b18",
+      "styleAttributes": {
+        "path": null,
+        "pathfindingMethod": "square"
+      },
+      "toEnd": "none",
+      "toNode": "bac84b72ab697c7a",
+      "toSide": "bottom"
+    }
+  ],
+  "nodes": [
+    {
+      "file": "(Images)/Places/Falgriff's Refuge.png",
+      "height": 840,
+      "id": "db30dae54218bb26",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 801,
+      "x": 480,
+      "y": -360
+    },
+    {
+      "file": "(Images)/Places/Athos.png",
+      "height": 400,
+      "id": "bac84b72ab697c7a",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 382,
+      "x": 1360,
+      "y": -540
+    }
+  ]
+}
