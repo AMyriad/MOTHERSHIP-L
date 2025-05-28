@@ -14,7 +14,8 @@
 
 ### **BRANCHES**
 - **ExComm: The Executive Committee**
-  The Executive Committee is Union's executive body. Spread across various campuses on Earth, it is a vast administrative body eclipsing all other departments in organizational scope - though note in size.
+  The Executive Committee is Union's governing body. Spread across various campuses on Earth, it is a vast administrative body eclipsing all other departments in organizational scope - though not in size. Representatives and ambassadors from hundreds of 
+
 
 
 
