@@ -16,7 +16,7 @@
 ### **BRANCHES**
 - **The Triumvirate**
 - **DoJ/HR**
-- **TriD**
+- **TriDiv**
 
 
 # **THE LAST STATE**

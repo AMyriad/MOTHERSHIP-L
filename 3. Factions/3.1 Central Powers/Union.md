@@ -1,11 +1,11 @@
 
-|           **Union**           |
-| :---------------------------: |
-| *CENTRAL CORPORATE AUTHORITY* |
-|   ***"For all mankind."***    |
+|          **Union**           |
+| :--------------------------: |
+| *CENTRAL GALACTIC AUTHORITY* |
+|   ***"For all mankind."***   |
 # **OVERVIEW**
-**ALSO KNOWN AS:** Bureaus, Centrufascists, ExComm, ThirdComm
-**LEADER(S):** ExComm (or ThirdComm)
+**ALSO KNOWN AS:** Bureaus, Centrofascists, ExComm, ThirdComm
+**LEADER(S):** ExComm
 **FORM OF GOVERNMENT:** Bureaucratic Corporatocracy
 **HEADQUARTERS:** Earth, Sol System, Sol Cluster [Centrum Sector]
 
@@ -17,9 +17,8 @@
 - **UAB: Union Administrative Bureau**
 - **UN: Union Navy**
 - **USB: Union Science Bureau**
-- **UBJ: Union Bureau of Justice**
+- **UIAB: Union Internal Affairs Bureau**
 - **UEB: Union Economic Bureau**
-- **UBSM: Union Bureau of Structural Management**
 
 
 
