@@ -7,7 +7,7 @@
 # **OVERVIEW**
 **ALSO KNOWN AS:** The State, The Fifth, Perikarnassians, The Commune, Mazovians
 **LEADER(S):** The Triumvirate
-**FORM OF GOVERNMENT:** Utopian Communist State
+**FORM OF GOVERNMENT:** Utopian Military Commune
 **HEADQUARTERS:** Ras Shamra, Graad System, Mazov Cluster [Perikarnassis Sector]
 
 ### **AFFILIATED PEOPLE**
@@ -15,7 +15,8 @@
 
 ### **BRANCHES**
 - **The Triumvirate**
-  At the head of the Fifth Star sits a governing body known as the Triumvirate. 
+- **DoJ/HR**
+- **TriD**
 
 
 # **THE LAST STATE**

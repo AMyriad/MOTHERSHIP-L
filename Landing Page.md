@@ -20,8 +20,8 @@
 | -------------------------- | ---------------------- | ----------------------------- | :--------: | :-----------: |
 | MXT-2274 "LUCY" *(Arijus)* | TECHNICIAN *(ANDROID)* | WITH THE GROUP ([[Samsa VI]]) |  COMATOSE  |       2       |
 
-| **MEMORIAL HALL (1)**        | **ROLE**                | **LOCATION** |             **CAUSE OF DEATH**             | **HIGHSCORE** |
-| ---------------------------- | ----------------------- | ------------ | :----------------------------------------: | :-----------: |
-| ELAM WOJCIECHOWSKI *(Solus)* | ECOLOGIST *(SCIENTIST)* | [[Samsa VI]] | FACE MAULED BY [[4.1 Carcinids\|CARCINID]] |       0       |
+| **MEMORIAL HALL (1)**        | **ROLE**                | **LOCATION** |          **CAUSE OF DEATH**           | **HIGHSCORE** |
+| ---------------------------- | ----------------------- | ------------ | :-----------------------------------: | :-----------: |
+| ELAM WOJCIECHOWSKI *(Solus)* | ECOLOGIST *(SCIENTIST)* | [[Samsa VI]] | MAULED BY [[4.1 Carcinids\|CARCINID]] |       0       |
 
 ---
