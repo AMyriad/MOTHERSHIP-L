@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Landing Page.md",
+                "file": "5. Data/Abstract.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Landing Page"
+              "title": "Abstract"
             }
           }
         ]
@@ -171,10 +171,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e90edbec89310be8",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "1. Places/The Archipelago.md",
     "Landing Page.md",
+    "5. Data/Abstract.md",
+    "1. Places/The Archipelago.md",
     "1. Places/Map.canvas",
     "0. Missions/0.0 Mission Index.md",
     "1. Places/1.0 Place Index.md",

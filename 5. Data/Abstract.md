@@ -1,0 +1,68 @@
+Alright here we go
+
+It is **1152u**, the second age of expansion.
+
+
+
+
+
+
+
+**0u - Founding of Union, FirstComm**
+
+**Hercynian Crisis Beginning**
+
+**Hercynian Crisis End, first TBK deployment**
+
+**PISTON-1 attack**
+
+**Last '00' - the Antecentennial Revolution,**
+
+copies of prime NHPs are individually named, prime ones carry their "class" name
+
+
+Monarch
+
+5S processes immigrants through many rigorous tests like the Sano-Waltfield test to detect androids. Although out of them all, the one known as (name) is the most feared, as it is the last test, checking for ideological integrity am ong other things, for the main purpose of rooting out Union spies. Few trained agents manage to get through it. After the testing phase, processing procedure places any able to fight - excluding children, the sick, the disabled, etc. - directly into the draft for Harrison Armory's Colonial Legionnate. Service guarantees citizenship. And if you want in to state, you must fight for it. Many of those who aren't drafted also take up manufacturing jobs and the like - though they are mostly managed by comprehensive networks of NHPs, androids, and busybodies that can perform these menial tasks for a fraction of the effort. HA-licensed NHPs are also ideologically trained, warranting no worry from 5S operators for Union subversion attacks.
+
+
+What does being a prequel mean???
+
+**IT IS THE END TIMES**
+Stars distance themselves and galaxies drift farther apart as they have been for billions of years already; so far along in time are we.
+Throughout this time, humankind has grown distant (not just literally). Sectors/clusters of stars have spread that the distances between one another are vast and take larger jumps to traverse, as well as longer times to send and receive messages. Away in space, on one side of the universe and everything exists a plane of brightening light. It is the void, a presence yet unexplained by science despite it existing for said billions of years. Yet only recently has it become known and visible to the naked eye from the Milky Way, as it has spent eternity reaching us. A lone operator known only as "Navigator" - sent billions of years ago in one of the first FTL ships as part of a special project - discovers it after finally reaching Andromeda, and seeing it for himself. 
+
+- Stars clustered in sectors are far apart, the gaps between them large as cosmic drift has progressed through billions of years.
+
+
+
+
+- First Age of Expansion - some time before U
+Long, long before this took place, humankind had undergone war, collapse, struggle - but ultimately progressed slowly and steadily. With every iteration, we got a little further. Now, deep in what historians now call the First Age of Expansion, the vast number of galactic nation, empires, and other such states eventually suffered deep and escalating diplomatic tensions. The galaxy suffered great and long war, bringing an abrupt end to the expansion as the survivors of the more distant colonies and territories stopped receiving supplies and eventually lost contact.
+
+- The Union, founding of FirstComm (retroactively named by SecComm)
+At the end of this great galactic conflict, the states that had declared themselves the victors and those who still barely stood became indistinguishable. But despite the loss, there were many who had only grown in power from the war. Munitions, shipyards, megastructural factories - all privately owned. Used and contracted by the state, yes, but the companies who had invested in war profiteering soon became true titans of industry. And when the states of the galaxy trembled alone in their corners scattered and scared, the megacorporations that came to be made their move.
+
+Those at the head of their enterprise were shrewd, meticulous planners. *To amass control, ensure the legacy of their ventures, and maintain stability, they would have to think in the long-term. They knew of the countless opportunities they would have to sacrifice; when a new order would be established, upholding the status quo and the "common good" would be paramount to keeping control.* The largest of the megacorporations came together in the name of making sure no conflict this great would ever happen again, the promise to steer humankind ever onward, and profit until the end of time, they united, raised one banner and committed themselves to one purpose: Union. *(Highlighted is more ThirdComm's thing and not FirstComm, should be amended)*
+
+After the founding of this economic, bureaucratic, and industrial juggernaut, they would adopt a new doctrine: the concept of the nation-state, or political state, cannot be allowed to exist. And so, Union simply took the scraps left behind. Willing or unwilling, all powers were subsumed and centralized. The Old Age was dead. Long live Union.
+
+- The Distal War and PISTON-1 attack - some hundred years after U
+
+
+- The Hercynian Crisis - less than 150-200 years after PISTON-1 attack, right before SecComm
+First contact with alien life, and to this day remain the most developed alien species yet discovered. Not entirely sentient, but highly intelligent mantis-like creatures populated Hercynia V. Named "Egregorians" for their style of building nests, they are hiveminded creatures. They operate in orderly communities across the many different environments on Hercynia V, sort of dissimilar to how ants do. Put short, first contact failed when the first humans arrived during FirstComm. Fighting began across the planet as a war was campaigned both for the territory and the natural resources abundant on the planet - in true anthrochauvanist fashion.
+
+Eventually the conflict escalated to such an extent that a massive attack was coordinated by FirstComm to systematically wipe out the Egregorians by way of rendering their territories absolutely uninhabitable to biological life. The second recorded instance of a TBK, or Total Biome Kill weapon was deployed, and large swathes of the planet's surface, subsurface, and climate became 'de-habitated'. Millions protested the use of the TBK, and there was a surge of opposition movements. However, the conflict was cut short as a surprise attack was launched throughout corespace by revolutionary forces, now having made their way to Centrum and becoming a very real threat to the Executive Commitee. All forces were immediately drawn back, leaving many behind on Hercynia V to fend for themselves. After the Antecentennial Revolution the world was largely forgotten about, due to the destruction of documents and prioritization of keeping together Union's fleets and worlds under the newly formed SecComm. Then it was "rediscovered" recently (Wallflower arc begins).
+
+- The Antecentennial Revolution, founding of SecComm - Right when Hercynian Crisis ended
+
+
+- The Schism (bnp), founding of ThirdComm - less than 100 years ago
+
+Far from its beginnings in the Antecentennial Revolution that overthrew FirstComm, in present times the Fifth Star is a major player on the galactic stage. The openly communard state is backed by various loyalists - most prominent of them all is the former corpro-state and imperial military-industrial complex Harrison Armory. At the end of SecComm's reign, it was Harrison Armory that provided its capital of Ras Shamra and its territories to the loyalists. Since then they have contributed as a vital part of the Fifth Star's military power, research, and infrastructure.
+
+The state is alone in the galaxy as the only major political power rivalling Union. Even in 
+
+The Fifth Star standing in stark defiance of Union's anti-state policy. They have also grown to become Union's greatest threat - a 
+ 
