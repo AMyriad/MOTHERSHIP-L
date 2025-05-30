@@ -23,4 +23,4 @@
 
 **APPEARS IN:**
 - **[[0.1 Another Bug Hunt]]**
-   - *DISTRESS SIGNALS PT. I*
+   - *S1 - DISTRESS SIGNALS PT. I*
