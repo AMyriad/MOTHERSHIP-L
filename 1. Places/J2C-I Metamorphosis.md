@@ -30,6 +30,3 @@
 - Rest Saves relieve +1 Stress while aboard this ship.
 - * This ship must have a weapon installed to deal 1 MDMG.
 
-
-# **ADDITIONAL DATA**
-

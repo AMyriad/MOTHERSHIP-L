@@ -13,7 +13,7 @@
 - Nasally voice
 - Dark hair w/ stubble
 - Medium stature
-- Corporate officer's uniform
+- Company manager's uniform
 
 **RELATIONSHIPS:**
 - **[[Anders]]** - Have met each other.

@@ -1,13 +1,13 @@
 
-| ![[Samsa VI.png]] |
-| :----------------------------------: |
-|             **Samsa VI**             |
-|        *REMOTE JUNGLE WORLD*         |
+|   ![[Samsa VI.png]]   |
+| :-------------------: |
+|     **Samsa VI**      |
+| *REMOTE JUNGLE WORLD* |
 
 # **OVERVIEW**
 **CLASS:** Planet *(Jungle World)*
 **LOCATION:** Samsa System, Viczek Cluster [Yunaph Sector]
-**OWNER(S):** None
+**OWNER(S):** ???
 
 **SIZE:** Midsized *(7400km diameter)*
 **TEMPERATURE:** Temperate *(avg. 20c)*
