@@ -5,9 +5,10 @@
   "obsidian-leaflet-plugin",
   "optimize-canvas-connections",
   "obsidian-timeline",
-  "folders2graph",
   "editor-width-slider",
   "obsidian-icon-folder",
   "homepage",
-  "share-note"
+  "share-note",
+  "folders2graph",
+  "obsidian-hider"
 ]
