@@ -8,20 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "52280f8fbaad660d",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Landing Page.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Landing Page"
             }
+          },
+          {
+            "id": "2c10aa67c84a1604",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -182,24 +193,33 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "52280f8fbaad660d",
+  "active": "e90edbec89310be8",
   "lastOpenFiles": [
-    "4. Threats/4.0 Threat Index.md",
-    "6. Personal Logbook/Logbook.md",
+    "5. Data/5.3 House Rules.md",
+    "0. Missions/0.1 Another Bug Hunt.md",
+    "1. Places/J2C-I Metamorphosis.md",
     "Landing Page.md",
+    "1. Places/Samsa VI.md",
+    "5. Data/5.2 Shipbreaker's Toolkit.pdf",
+    "6. Personal Logbook/Logbook.md",
+    "3. Factions/3.1 Central Powers/Fifth Star.md",
+    "3. Factions/3.0 Faction Index.md",
+    "0. Missions/0.0 Mission Index.md",
+    "4. Threats/4.0 Threat Index.md",
+    "2. People/Anders.md",
+    "2. People/Dr. Edem.md",
+    "2. People/Maas.md",
+    "2. People/Hinton.md",
+    "4. Threats/4.1 Carcinids.md",
+    "2. People/Renfield.md",
+    "2. People/SSgt. Underhill.md",
+    "2. People/2.0 People Index.md",
+    "3. Factions/3.1 Central Powers/Union.md",
     "6. Personal Logbook",
     "5. Data/5.4 App.md",
     "5. Data/Unintitled.md",
     "2025-05-31.md",
-    "5. Data/5.3 Homebrew & House Rules.md",
-    "0. Missions/0.0 Mission Index.md",
     "Example.png",
-    "0. Missions/0.1 Another Bug Hunt.md",
-    "3. Factions/3.0 Faction Index.md",
-    "3. Factions/3.1 Central Powers/Fifth Star.md",
-    "3. Factions/3.1 Central Powers/Union.md",
-    "1. Places/J2C-I Metamorphosis.md",
-    "1. Places/Samsa VI.md",
     "1. Places/1.0 Place Index.md",
     "(Images)/Misc/Threats.png",
     "(Images)/Misc/People.png",
@@ -209,18 +229,8 @@
     "(Images)/Misc/Factions.png",
     "(Images)/Misc/Factions.png",
     "5. Data/5.1 Player's Survival Guide.pdf",
-    "2. People/Anders.md",
-    "2. People/Dr. Edem.md",
-    "2. People/SSgt. Underhill.md",
-    "2. People/Maas.md",
-    "2. People/2.0 People Index.md",
-    "2. People/Renfield.md",
     "3. Factions/3.2 Corpro-states/Temp File.md",
-    "5. Data/5.2 Shipbreaker's Toolkit.pdf",
     "3. Factions/3.3 Corespace/More Temp File.md",
-    "3. Factions/3.4 Rimspace/Even More Temp File.md",
-    "5. Data/5.4 Technology.md",
-    "5. Data/5.1 Lore Primer.md",
     "1. Places/Map.canvas",
     "1. Places/Untitled 2.canvas",
     "1. Places/Untitled 1.canvas",

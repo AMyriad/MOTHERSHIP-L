@@ -3,9 +3,7 @@
 | :---------------: |
 |   **Renfield**    |
 | *FREELANCE PILOT* |
-
 # **OVERVIEW**
-**ALIAS(ES):** Unknown
 **PRONOUNS:** He/Him
 **STATUS:** Alive
 **LAST SEEN:** Aboard the [[J2C-I Metamorphosis]]

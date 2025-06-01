@@ -24,4 +24,6 @@
 | ---------------------------- | ----------------------- | ------------ | :-----------------------------------: | :-----------: |
 | ELAM WOJCIECHOWSKI *(Solus)* | ECOLOGIST *(SCIENTIST)* | [[Samsa VI]] | MAULED BY [[4.1 Carcinids\|CARCINID]] |       0       |
 
+![[0.0 Mission Index]]
+
 ---

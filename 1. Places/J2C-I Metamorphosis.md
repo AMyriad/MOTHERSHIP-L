@@ -15,18 +15,18 @@
 | :---------------: | :---------------: | :----------: | :-------------: |
 |        16         |        14         |      16      |        4        |
 
-| **0/1 HARDPOINTS** | **BONUS** |
-| ------------------ | --------: |
-|                    |           |
+| **HARDPOINTS (0/1)** | **BONUS** |
+| -------------------- | --------: |
+|                      |           |
 **MEGADAMAGE:** 0* *(Base 1)*
 
-| **2/3 UPGRADES** | **DESCRIPTION**                                                                                    |
-| ---------------- | -------------------------------------------------------------------------------------------------- |
-| Cosmetic Remodel | Upgrade in appearance to the ship’s interior including paint, furnishings, and other decorations.  |
-| Medbay           | Rest Saves aboard this ship are at [+], other medical treatments available at Warden’s discretion. |
-|                  |                                                                                                    |
+| **UPGRADES (2/3)** | **DESCRIPTION**                                                                                    |
+| ------------------ | -------------------------------------------------------------------------------------------------- |
+| Cosmetic Remodel   | Upgrade in appearance to the ship’s interior including paint, furnishings, and other decorations.  |
+| Medbay             | Rest Saves aboard this ship are at [+], other medical treatments available at Warden’s discretion. |
+|                    |                                                                                                    |
 
 **NOTES:**
 - Rest Saves relieve +1 Stress while aboard this ship.
-- * This ship must have a weapon installed to deal 1 MDMG.
+- *This ship must have a weapon installed to deal 1 MDMG.
 

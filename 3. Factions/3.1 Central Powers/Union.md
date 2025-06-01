@@ -19,7 +19,7 @@
 - **USB: Union Science Bureau**
 - **UBIA: Union Bureau of Internal Affairs**
 - **UEB: Union Economic Bureau**
-- **UOB: Union Omninet Bureau**
+- **UOB: Union Omninetwork Bureau**
 - **UBO/TP: Union Bureau of Orbital/Terrestrial Planning**
 
 
