@@ -11,14 +11,17 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "5. Data/Abstract.md",
-                "mode": "source",
-                "source": false
+                "file": "1. Places/The Archipelago.canvas",
+                "viewState": {
+                  "x": 572.2253873311388,
+                  "y": 650.6716691003629,
+                  "zoom": -0.924074020385742
+                }
               },
-              "icon": "lucide-file",
-              "title": "Abstract"
+              "icon": "lucide-layout-dashboard",
+              "title": "The Archipelago"
             }
           }
         ]
@@ -174,6 +177,7 @@
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "Landing Page.md",
+    "1. Places/The Archipelago.canvas",
     "5. Data/Abstract.md",
     "1. Places/The Archipelago.md",
     "1. Places/Map.canvas",
@@ -211,7 +215,6 @@
     "(Images)/Factions/SSC.png",
     "(Images)/Factions/IPS-N.png",
     "(Images)/Factions/HORUS.png",
-    "3. Factions/3.1 Central Powers/Union.md",
     "5. Data",
     "4. Threats",
     "3. Factions/3.4 Rimspace Based",

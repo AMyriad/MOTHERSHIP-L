@@ -1,0 +1,324 @@
+{
+  "edges": [
+    {
+      "fromNode": "7d4ddfd3af1a0942",
+      "fromSide": "right",
+      "id": "68e4707bffbafdf8",
+      "styleAttributes": {
+      },
+      "toNode": "37e746b1ed53d758",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "7d4ddfd3af1a0942",
+      "fromSide": "right",
+      "id": "5c220b0dde79e6fe",
+      "styleAttributes": {
+      },
+      "toNode": "7be7abcd43f36198",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "7d4ddfd3af1a0942",
+      "fromSide": "right",
+      "id": "21c1af8ffcdd3a1f",
+      "styleAttributes": {
+      },
+      "toNode": "b81646e8f9846073",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "7d4ddfd3af1a0942",
+      "fromSide": "right",
+      "id": "f8602d58d2a1a381",
+      "styleAttributes": {
+        "arrow": null,
+        "path": null
+      },
+      "toNode": "fef8e47c920a2f04",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "303268f297da385c",
+      "fromSide": "bottom",
+      "id": "4e07a308495a45d5",
+      "label": "Arrived centuries ago.\nArchipelago considered their people's home.",
+      "styleAttributes": {
+        "path": "long-dashed"
+      },
+      "toNode": "bab4022a6d9ade41",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "cad0131dfe34f760",
+      "fromSide": "bottom",
+      "id": "379c246ba0a339c1",
+      "styleAttributes": {
+        "arrow": "circle-outline",
+        "path": null
+      },
+      "toNode": "75af7ec1055935b6",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "9fc5e680a87d8742",
+      "fromSide": "bottom",
+      "id": "09ea96f87a68350d",
+      "styleAttributes": {
+        "arrow": "circle-outline"
+      },
+      "toNode": "2d6b02abdd275895",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "9fa333507c9deef0",
+      "fromSide": "bottom",
+      "id": "922dbbc2c2159c42",
+      "styleAttributes": {
+        "arrow": "circle-outline"
+      },
+      "toNode": "610f94975f5f7166",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "610f94975f5f7166",
+      "fromSide": "bottom",
+      "id": "90eb7ec6f6f627e9",
+      "styleAttributes": {
+        "arrow": "circle-outline"
+      },
+      "toNode": "3802a4259e0d027f",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "3802a4259e0d027f",
+      "fromSide": "bottom",
+      "id": "cfa6d9962e26d2be",
+      "styleAttributes": {
+        "arrow": "circle-outline"
+      },
+      "toNode": "fe8f83dfdace6bc0",
+      "toSide": "top"
+    }
+  ],
+  "nodes": [
+    {
+      "color": "1",
+      "height": 620,
+      "id": "eb40950a0e4bddb2",
+      "label": "Team Union",
+      "type": "group",
+      "width": 1640,
+      "x": -460,
+      "y": 450
+    },
+    {
+      "color": "4",
+      "height": 680,
+      "id": "9a67f9a7c158eee0",
+      "label": "Team HORUS",
+      "type": "group",
+      "width": 720,
+      "x": 480,
+      "y": 420
+    },
+    {
+      "color": "2",
+      "height": 300,
+      "id": "1fc502d372907867",
+      "label": "Team Monarch",
+      "styleAttributes": {
+        "border": "dotted"
+      },
+      "type": "group",
+      "width": 1160,
+      "x": -720,
+      "y": 560
+    },
+    {
+      "height": 290,
+      "id": "bab4022a6d9ade41",
+      "label": "The Archipelago",
+      "type": "group",
+      "width": 650,
+      "x": -150,
+      "y": -130
+    },
+    {
+      "height": 60,
+      "id": "b81646e8f9846073",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Rendoone",
+      "type": "text",
+      "width": 260,
+      "x": 240,
+      "y": 10
+    },
+    {
+      "height": 60,
+      "id": "7be7abcd43f36198",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Verge's Rock",
+      "type": "text",
+      "width": 260,
+      "x": 240,
+      "y": -60
+    },
+    {
+      "height": 60,
+      "id": "37e746b1ed53d758",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Athos",
+      "type": "text",
+      "width": 260,
+      "x": 240,
+      "y": -130
+    },
+    {
+      "height": 60,
+      "id": "fef8e47c920a2f04",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Canaan's Anchorage",
+      "type": "text",
+      "width": 260,
+      "x": 240,
+      "y": 100
+    },
+    {
+      "height": 60,
+      "id": "7d4ddfd3af1a0942",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Falgriff's Refuge",
+      "type": "text",
+      "width": 260,
+      "x": -150,
+      "y": -60
+    },
+    {
+      "height": 60,
+      "id": "303268f297da385c",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Falgriff's Frontiersfolk",
+      "type": "text",
+      "width": 240,
+      "x": -720,
+      "y": -220
+    },
+    {
+      "color": "1",
+      "height": 60,
+      "id": "9fc5e680a87d8742",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "**Silus**\nPeregrine's Android Assistant & Bodyguard",
+      "type": "text",
+      "width": 346,
+      "x": 57,
+      "y": 600
+    },
+    {
+      "height": 60,
+      "id": "75af7ec1055935b6",
+      "styleAttributes": {
+        "shape": "pill",
+        "textAlign": "center"
+      },
+      "text": "*Secretly an infiltrator android working for Monarch*",
+      "type": "text",
+      "width": 440,
+      "x": -440,
+      "y": 713
+    },
+    {
+      "height": 90,
+      "id": "2d6b02abdd275895",
+      "styleAttributes": {
+        "shape": "pill",
+        "textAlign": "center"
+      },
+      "text": "*Secretly an NHP working for Monarch.\nThe brains. Keeps Peregrine in check.\nCasket is kept hidden in the Captain's Quarters.*",
+      "type": "text",
+      "width": 440,
+      "x": 10,
+      "y": 713
+    },
+    {
+      "height": 103,
+      "id": "fe8f83dfdace6bc0",
+      "styleAttributes": {
+        "shape": "pill",
+        "textAlign": "center"
+      },
+      "text": "*Even even more secretly unironically still works for HORUS. Leaks crucial UIB info to select groups. Has maintained his cover for years.*",
+      "type": "text",
+      "width": 537,
+      "x": 574,
+      "y": 940
+    },
+    {
+      "color": "4",
+      "height": 60,
+      "id": "9fa333507c9deef0",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "**Guy Conrad**\nAnchorage Technical Officer",
+      "type": "text",
+      "width": 260,
+      "x": 712,
+      "y": 495
+    },
+    {
+      "height": 98,
+      "id": "610f94975f5f7166",
+      "styleAttributes": {
+        "shape": "pill",
+        "textAlign": "center"
+      },
+      "text": "*Secretly leads the local HORUS cell, EUCLID.\nWants to sabotage corporate interests, assist other HORUS sympathizers using the Anchorage as a staging area, etc.*",
+      "type": "text",
+      "width": 470,
+      "x": 607,
+      "y": 615
+    },
+    {
+      "color": "1",
+      "height": 60,
+      "id": "cad0131dfe34f760",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "**Sera Peregrine**\nUnion Administrator",
+      "type": "text",
+      "width": 260,
+      "x": -350,
+      "y": 570
+    },
+    {
+      "height": 132,
+      "id": "3802a4259e0d027f",
+      "styleAttributes": {
+        "shape": "pill",
+        "textAlign": "center"
+      },
+      "text": "*Even more secretly is a UIB agent. Stationed at the Anchorage to observe, report, and deal with possible 5S/HA presence in the Archipelago.\nWill want to arrest Peregrine and Silus as soon as he catches on to what they are.*",
+      "type": "text",
+      "width": 640,
+      "x": 522,
+      "y": 768
+    }
+  ]
+}
