@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Landing Page.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -22,17 +22,38 @@
             }
           },
           {
-            "id": "2c10aa67c84a1604",
+            "id": "556f86dee59d8283",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "canvas",
+              "state": {
+                "file": "5. Data/5.4 Skill Tree.canvas",
+                "viewState": {
+                  "x": 406.3453016016585,
+                  "y": -132.77767115730762,
+                  "zoom": -0.6666666666666667
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "5.4 Skill Tree"
+            }
+          },
+          {
+            "id": "c47928931196d64c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5. Data/5.3 House Rules.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "5.3 House Rules"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -193,18 +214,21 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e90edbec89310be8",
+  "active": "c47928931196d64c",
   "lastOpenFiles": [
+    "5. Data/5.4 Skill Tree.canvas",
     "5. Data/5.3 House Rules.md",
-    "0. Missions/0.1 Another Bug Hunt.md",
-    "1. Places/J2C-I Metamorphosis.md",
+    "6. Personal Logbook/Logbook.md",
     "Landing Page.md",
+    "3. Factions/3.4 Rimspace/Even More Temp File.md",
+    "0. Missions/0.1 Another Bug Hunt.md",
+    "3. Factions/3.1 Central Powers/Union.md",
+    "3. Factions/3.1 Central Powers/Fifth Star.md",
+    "0. Missions/0.0 Mission Index.md",
+    "1. Places/J2C-I Metamorphosis.md",
     "1. Places/Samsa VI.md",
     "5. Data/5.2 Shipbreaker's Toolkit.pdf",
-    "6. Personal Logbook/Logbook.md",
-    "3. Factions/3.1 Central Powers/Fifth Star.md",
     "3. Factions/3.0 Faction Index.md",
-    "0. Missions/0.0 Mission Index.md",
     "4. Threats/4.0 Threat Index.md",
     "2. People/Anders.md",
     "2. People/Dr. Edem.md",
@@ -214,7 +238,6 @@
     "2. People/Renfield.md",
     "2. People/SSgt. Underhill.md",
     "2. People/2.0 People Index.md",
-    "3. Factions/3.1 Central Powers/Union.md",
     "6. Personal Logbook",
     "5. Data/5.4 App.md",
     "5. Data/Unintitled.md",
@@ -230,7 +253,6 @@
     "(Images)/Misc/Factions.png",
     "5. Data/5.1 Player's Survival Guide.pdf",
     "3. Factions/3.2 Corpro-states/Temp File.md",
-    "3. Factions/3.3 Corespace/More Temp File.md",
     "1. Places/Map.canvas",
     "1. Places/Untitled 2.canvas",
     "1. Places/Untitled 1.canvas",

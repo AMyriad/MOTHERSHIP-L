@@ -1,0 +1,975 @@
+{
+  "edges": [
+    {
+      "fromNode": "962d2d19411cb299",
+      "fromSide": "right",
+      "id": "f48ffa3da08e6c32",
+      "styleAttributes": {
+        "pathfindingMethod": null
+      },
+      "toNode": "690b819c21fe525d",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "bd20fea497cb21f2",
+      "fromSide": "right",
+      "id": "52783cb9155f7f24",
+      "styleAttributes": {
+        "arrow": null,
+        "path": null,
+        "pathfindingMethod": null
+      },
+      "toNode": "e6ee615c4d0d31d2",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "5f2fd7b95a9a6c1e",
+      "fromSide": "right",
+      "id": "0fc57a28a5d566a8",
+      "styleAttributes": {
+        "path": null,
+        "pathfindingMethod": null
+      },
+      "toNode": "e6ee615c4d0d31d2",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "5f2fd7b95a9a6c1e",
+      "fromSide": "right",
+      "id": "d29cd148d306803f",
+      "styleAttributes": {
+        "path": null,
+        "pathfindingMethod": null
+      },
+      "toNode": "962d2d19411cb299",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "3946a65cb50e3a12",
+      "fromSide": "right",
+      "id": "160d63e429729130",
+      "styleAttributes": {
+        "path": null,
+        "pathfindingMethod": null
+      },
+      "toNode": "e6ee615c4d0d31d2",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "3946a65cb50e3a12",
+      "fromSide": "right",
+      "id": "58ccd018efff47bb",
+      "styleAttributes": {
+        "path": null
+      },
+      "toNode": "962d2d19411cb299",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "3946a65cb50e3a12",
+      "fromSide": "right",
+      "id": "29e7737e484ea167",
+      "styleAttributes": {
+        "pathfindingMethod": null
+      },
+      "toNode": "111c48eedbb17ef9",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "646e2c387d21579a",
+      "fromSide": "right",
+      "id": "3270ba65c509e0ba",
+      "styleAttributes": {
+        "pathfindingMethod": null
+      },
+      "toNode": "43799906a377342d",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "df2a3b9080445ef9",
+      "fromSide": "right",
+      "id": "772f222524c15fc8",
+      "styleAttributes": {
+      },
+      "toNode": "43799906a377342d",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "0cf188eeac9a0a21",
+      "fromSide": "right",
+      "id": "009748e97853b89d",
+      "styleAttributes": {
+      },
+      "toNode": "43799906a377342d",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "850c8778f1fd0ca4",
+      "fromSide": "right",
+      "id": "051d80dc446fb892",
+      "styleAttributes": {
+      },
+      "toNode": "d6f281419dfb741c",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "2b71b6debacf27ad",
+      "fromSide": "right",
+      "id": "9ec79419abed2576",
+      "styleAttributes": {
+      },
+      "toNode": "aa7efb670bcbb82e",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "f243c7f9cba763ce",
+      "fromSide": "right",
+      "id": "663d5cad2fe74f9b",
+      "styleAttributes": {
+      },
+      "toNode": "9905131e9bc58668",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "112fb7c7f5c9376f",
+      "fromSide": "right",
+      "id": "29370d005e08e77c",
+      "styleAttributes": {
+        "path": null
+      },
+      "toNode": "eaf06f64ed1ba3cb",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "c1f3f893b936b226",
+      "fromSide": "right",
+      "id": "8b77da19bc5cec86",
+      "styleAttributes": {
+      },
+      "toNode": "111c48eedbb17ef9",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "112fb7c7f5c9376f",
+      "fromSide": "right",
+      "id": "ee26272e4d21e411",
+      "styleAttributes": {
+        "path": null
+      },
+      "toNode": "111c48eedbb17ef9",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "c1f3f893b936b226",
+      "fromSide": "right",
+      "id": "f905eb13f4b4737f",
+      "styleAttributes": {
+      },
+      "toNode": "2220305d06b55229",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "066049f71e31456b",
+      "fromSide": "right",
+      "id": "7a55dc4ef9a24228",
+      "styleAttributes": {
+      },
+      "toNode": "2220305d06b55229",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "066049f71e31456b",
+      "fromSide": "right",
+      "id": "ccae7ed99c30441e",
+      "styleAttributes": {
+      },
+      "toNode": "0775f0992bc9bb76",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "c1ccecc2a2001c3d",
+      "fromSide": "right",
+      "id": "3b681d83b8dc0801",
+      "styleAttributes": {
+      },
+      "toNode": "0775f0992bc9bb76",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "c1ccecc2a2001c3d",
+      "fromSide": "right",
+      "id": "f17cce980e9d4a9e",
+      "styleAttributes": {
+      },
+      "toNode": "f82d17bd06c749cc",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "e4d68dd1c412246a",
+      "fromSide": "right",
+      "id": "4850c47e733b1825",
+      "styleAttributes": {
+      },
+      "toNode": "f82d17bd06c749cc",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "e4d68dd1c412246a",
+      "fromSide": "right",
+      "id": "7b97960496f9538f",
+      "styleAttributes": {
+      },
+      "toNode": "832c2e2cf4aaa316",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "e4d68dd1c412246a",
+      "fromSide": "right",
+      "id": "d4b69a034b39ac12",
+      "styleAttributes": {
+      },
+      "toNode": "5be588339badcff7",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "3946a65cb50e3a12",
+      "fromSide": "right",
+      "id": "816c8b6394d5753b",
+      "styleAttributes": {
+      },
+      "toNode": "5be588339badcff7",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "e4d68dd1c412246a",
+      "fromSide": "right",
+      "id": "5ca789434279cb88",
+      "styleAttributes": {
+      },
+      "toNode": "0392b06e1b1f3c2d",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "8cb0a411d936cab2",
+      "fromSide": "right",
+      "id": "bf5b68f0366b8ad6",
+      "styleAttributes": {
+      },
+      "toNode": "832c2e2cf4aaa316",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "8cb0a411d936cab2",
+      "fromSide": "right",
+      "id": "225c6a179db9e6c4",
+      "styleAttributes": {
+      },
+      "toNode": "0392b06e1b1f3c2d",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "8cb0a411d936cab2",
+      "fromSide": "right",
+      "id": "0ad1f0b6b3ae67a0",
+      "styleAttributes": {
+      },
+      "toNode": "325dd3138a1d333e",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "9b6bbddddb9e3ae3",
+      "fromSide": "right",
+      "id": "115cbbb48a4dbc92",
+      "styleAttributes": {
+      },
+      "toNode": "325dd3138a1d333e",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "325dd3138a1d333e",
+      "fromSide": "right",
+      "id": "33463bc96a5ba47c",
+      "styleAttributes": {
+      },
+      "toNode": "66416e4244196e6b",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "832c2e2cf4aaa316",
+      "fromSide": "right",
+      "id": "423b80f1ab21072a",
+      "styleAttributes": {
+      },
+      "toNode": "1d377ed0b4b08d81",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "832c2e2cf4aaa316",
+      "fromSide": "right",
+      "id": "47c8a2721ef32d1b",
+      "styleAttributes": {
+      },
+      "toNode": "1f29733741b7d9f7",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "0392b06e1b1f3c2d",
+      "fromSide": "right",
+      "id": "4b5ffd27f263218e",
+      "styleAttributes": {
+      },
+      "toNode": "1f29733741b7d9f7",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "f82d17bd06c749cc",
+      "fromSide": "right",
+      "id": "3ad25ab0395ad48a",
+      "styleAttributes": {
+      },
+      "toNode": "ac145fd86c2753c1",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "0775f0992bc9bb76",
+      "fromSide": "right",
+      "id": "8a65251e51235a08",
+      "styleAttributes": {
+      },
+      "toNode": "ac145fd86c2753c1",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "2220305d06b55229",
+      "fromSide": "right",
+      "id": "459a2c494444afc6",
+      "styleAttributes": {
+      },
+      "toNode": "c2700d5c7b6c0041",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "2220305d06b55229",
+      "fromSide": "right",
+      "id": "7aa862dacaf262c7",
+      "styleAttributes": {
+      },
+      "toNode": "07d0555c181b869c",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "2220305d06b55229",
+      "fromSide": "right",
+      "id": "f3a9d3146fe64d94",
+      "styleAttributes": {
+      },
+      "toNode": "4223fc669935d61c",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "9905131e9bc58668",
+      "fromSide": "right",
+      "id": "16fd008531a125b2",
+      "styleAttributes": {
+      },
+      "toNode": "fa19b86744bea864",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "aa7efb670bcbb82e",
+      "fromSide": "right",
+      "id": "f7a439d785283b1f",
+      "styleAttributes": {
+      },
+      "toNode": "41246ea8638ed0cc",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "aa7efb670bcbb82e",
+      "fromSide": "right",
+      "id": "551f998c86563535",
+      "styleAttributes": {
+      },
+      "toNode": "690b819c21fe525d",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "d6f281419dfb741c",
+      "fromSide": "right",
+      "id": "3e96e9a4ced23fdb",
+      "styleAttributes": {
+      },
+      "toNode": "41246ea8638ed0cc",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "43799906a377342d",
+      "fromSide": "right",
+      "id": "810c5e8669904f26",
+      "styleAttributes": {
+      },
+      "toNode": "e1ca9edc7279359b",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "43799906a377342d",
+      "fromSide": "right",
+      "id": "cf5c2c7f9a0e2d3f",
+      "styleAttributes": {
+      },
+      "toNode": "41246ea8638ed0cc",
+      "toSide": "left"
+    }
+  ],
+  "metadata": {
+    "frontmatter": {
+    },
+    "startNode": "f87a94daffd611b7",
+    "version": "1.0-1.0"
+  },
+  "nodes": [
+    {
+      "height": 60,
+      "id": "e4d68dd1c412246a",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "**BOTANY**",
+      "type": "text",
+      "width": 260,
+      "x": -420,
+      "y": 40
+    },
+    {
+      "height": 60,
+      "id": "c1ccecc2a2001c3d",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "**GEOLOGY**",
+      "type": "text",
+      "width": 260,
+      "x": -420,
+      "y": 140
+    },
+    {
+      "height": 60,
+      "id": "066049f71e31456b",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "**INDUSTRIAL EQUIPMENT**",
+      "type": "text",
+      "width": 260,
+      "x": -420,
+      "y": 240
+    },
+    {
+      "height": 60,
+      "id": "c1f3f893b936b226",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "**JURY-RIGGING**",
+      "type": "text",
+      "width": 260,
+      "x": -420,
+      "y": 340
+    },
+    {
+      "height": 60,
+      "id": "112fb7c7f5c9376f",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "**CHEMISTRY**",
+      "type": "text",
+      "width": 260,
+      "x": -420,
+      "y": 440
+    },
+    {
+      "height": 60,
+      "id": "f243c7f9cba763ce",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "**COMPUTERS**",
+      "type": "text",
+      "width": 260,
+      "x": -420,
+      "y": 540
+    },
+    {
+      "height": 60,
+      "id": "2b71b6debacf27ad",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "**ZERO-G**",
+      "type": "text",
+      "width": 260,
+      "x": -420,
+      "y": 640
+    },
+    {
+      "height": 60,
+      "id": "850c8778f1fd0ca4",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "**MATHEMATICS**",
+      "type": "text",
+      "width": 260,
+      "x": -420,
+      "y": 740
+    },
+    {
+      "height": 60,
+      "id": "0cf188eeac9a0a21",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "**ART**",
+      "type": "text",
+      "width": 260,
+      "x": -420,
+      "y": 840
+    },
+    {
+      "height": 60,
+      "id": "df2a3b9080445ef9",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "**ARCHAEOLOGY**",
+      "type": "text",
+      "width": 260,
+      "x": -420,
+      "y": 940
+    },
+    {
+      "height": 60,
+      "id": "646e2c387d21579a",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "**THEOLOGY**",
+      "type": "text",
+      "width": 260,
+      "x": -420,
+      "y": 1040
+    },
+    {
+      "height": 60,
+      "id": "3946a65cb50e3a12",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "**MILITARY TRAINING**",
+      "type": "text",
+      "width": 260,
+      "x": -420,
+      "y": 1140
+    },
+    {
+      "height": 60,
+      "id": "5f2fd7b95a9a6c1e",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "**RIMWISE**",
+      "type": "text",
+      "width": 260,
+      "x": -420,
+      "y": 1240
+    },
+    {
+      "height": 60,
+      "id": "bd20fea497cb21f2",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "**ATHLETICS**",
+      "type": "text",
+      "width": 260,
+      "x": -420,
+      "y": 1340
+    },
+    {
+      "height": 60,
+      "id": "962d2d19411cb299",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "**FIREARMS**",
+      "type": "text",
+      "width": 260,
+      "x": 140,
+      "y": 1140
+    },
+    {
+      "height": 60,
+      "id": "e6ee615c4d0d31d2",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "**HAND-TO-HAND COMBAT**",
+      "type": "text",
+      "width": 260,
+      "x": 140,
+      "y": 1240
+    },
+    {
+      "height": 60,
+      "id": "9b6bbddddb9e3ae3",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "**LINGUISTICS**",
+      "type": "text",
+      "width": 260,
+      "x": -420,
+      "y": -260
+    },
+    {
+      "height": 60,
+      "id": "8cb0a411d936cab2",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "**ZOOLOGY**",
+      "type": "text",
+      "width": 260,
+      "x": -420,
+      "y": -160
+    },
+    {
+      "height": 60,
+      "id": "325dd3138a1d333e",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "**PSYCHOLOGY**",
+      "type": "text",
+      "width": 260,
+      "x": 140,
+      "y": -260
+    },
+    {
+      "height": 60,
+      "id": "832c2e2cf4aaa316",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "**PATHOLOGY**",
+      "type": "text",
+      "width": 260,
+      "x": 140,
+      "y": -160
+    },
+    {
+      "height": 60,
+      "id": "0392b06e1b1f3c2d",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "**FIELD MEDICINE**",
+      "type": "text",
+      "width": 260,
+      "x": 140,
+      "y": -60
+    },
+    {
+      "height": 60,
+      "id": "f82d17bd06c749cc",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "**ECOLOGY**",
+      "type": "text",
+      "width": 260,
+      "x": 140,
+      "y": 40
+    },
+    {
+      "height": 60,
+      "id": "0775f0992bc9bb76",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "**ASTEROID MINING**",
+      "type": "text",
+      "width": 260,
+      "x": 140,
+      "y": 140
+    },
+    {
+      "height": 60,
+      "id": "2220305d06b55229",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "**MECHANICAL REPAIR**",
+      "type": "text",
+      "width": 260,
+      "x": 140,
+      "y": 240
+    },
+    {
+      "height": 60,
+      "id": "111c48eedbb17ef9",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "**EXPLOSIVES**",
+      "type": "text",
+      "width": 260,
+      "x": 140,
+      "y": 340
+    },
+    {
+      "height": 60,
+      "id": "eaf06f64ed1ba3cb",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "**PHARMACOLOGY**",
+      "type": "text",
+      "width": 260,
+      "x": 140,
+      "y": 440
+    },
+    {
+      "height": 60,
+      "id": "9905131e9bc58668",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "**HACKING**",
+      "type": "text",
+      "width": 260,
+      "x": 140,
+      "y": 540
+    },
+    {
+      "height": 60,
+      "id": "aa7efb670bcbb82e",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "**PILOTING**",
+      "type": "text",
+      "width": 260,
+      "x": 140,
+      "y": 640
+    },
+    {
+      "height": 60,
+      "id": "d6f281419dfb741c",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "**PHYSICS**",
+      "type": "text",
+      "width": 260,
+      "x": 140,
+      "y": 740
+    },
+    {
+      "height": 60,
+      "id": "43799906a377342d",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "**MYSTICISM**",
+      "type": "text",
+      "width": 260,
+      "x": 140,
+      "y": 840
+    },
+    {
+      "height": 60,
+      "id": "5be588339badcff7",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "**WILDERNESS SURVIVAL**",
+      "type": "text",
+      "width": 260,
+      "x": 140,
+      "y": 1040
+    },
+    {
+      "height": 60,
+      "id": "66416e4244196e6b",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "**SOPHONTOLOGY**",
+      "type": "text",
+      "width": 260,
+      "x": 700,
+      "y": -260
+    },
+    {
+      "height": 60,
+      "id": "1d377ed0b4b08d81",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "**EXOBIOLOGY**",
+      "type": "text",
+      "width": 260,
+      "x": 700,
+      "y": -160
+    },
+    {
+      "height": 60,
+      "id": "1f29733741b7d9f7",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "**SURGERY**",
+      "type": "text",
+      "width": 260,
+      "x": 700,
+      "y": -60
+    },
+    {
+      "height": 60,
+      "id": "ac145fd86c2753c1",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "**PLANETOLOGY**",
+      "type": "text",
+      "width": 260,
+      "x": 700,
+      "y": 40
+    },
+    {
+      "height": 60,
+      "id": "c2700d5c7b6c0041",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "**ROBOTICS**",
+      "type": "text",
+      "width": 260,
+      "x": 700,
+      "y": 140
+    },
+    {
+      "height": 60,
+      "id": "07d0555c181b869c",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "**ENGINEERING**",
+      "type": "text",
+      "width": 260,
+      "x": 700,
+      "y": 240
+    },
+    {
+      "height": 60,
+      "id": "4223fc669935d61c",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "**CYBERNETICS**",
+      "type": "text",
+      "width": 260,
+      "x": 700,
+      "y": 340
+    },
+    {
+      "height": 60,
+      "id": "fa19b86744bea864",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "**ARTIFICIAL INTELLIGENCE**",
+      "type": "text",
+      "width": 260,
+      "x": 700,
+      "y": 540
+    },
+    {
+      "height": 60,
+      "id": "41246ea8638ed0cc",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "**HYPERSPACE**",
+      "type": "text",
+      "width": 260,
+      "x": 700,
+      "y": 740
+    },
+    {
+      "height": 60,
+      "id": "e1ca9edc7279359b",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "**XENOESOTERICISM**",
+      "type": "text",
+      "width": 260,
+      "x": 700,
+      "y": 840
+    },
+    {
+      "height": 60,
+      "id": "690b819c21fe525d",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "**COMMAND**",
+      "type": "text",
+      "width": 260,
+      "x": 700,
+      "y": 1140
+    },
+    {
+      "height": 120,
+      "id": "f61f4605ee0fb402",
+      "styleAttributes": {
+        "border": null,
+        "shape": "predefined-process"
+      },
+      "text": "# ***TRAINED SKILLS***\n## ***(+10 BONUS)***",
+      "type": "text",
+      "width": 320,
+      "x": -450,
+      "y": -480
+    },
+    {
+      "height": 120,
+      "id": "5019b0024c0ec37a",
+      "styleAttributes": {
+        "border": null,
+        "shape": "predefined-process"
+      },
+      "text": "# ***EXPERT SKILLS***\n## ***(+15 BONUS)***",
+      "type": "text",
+      "width": 320,
+      "x": 110,
+      "y": -480
+    },
+    {
+      "height": 120,
+      "id": "33ed33bac083c77a",
+      "styleAttributes": {
+        "border": null,
+        "shape": "predefined-process"
+      },
+      "text": "# ***MASTER SKILLS***\n## ***(+20 BONUS)***",
+      "type": "text",
+      "width": 320,
+      "x": 670,
+      "y": -480
+    }
+  ]
+}
