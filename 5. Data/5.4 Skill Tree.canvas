@@ -419,6 +419,78 @@
       },
       "toNode": "41246ea8638ed0cc",
       "toSide": "left"
+    },
+    {
+      "fromNode": "4f851198ed190296",
+      "fromSide": "right",
+      "id": "5b345aa5d449e8ee",
+      "styleAttributes": {
+      },
+      "toNode": "d07526d73624a5e3",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "4f851198ed190296",
+      "fromSide": "right",
+      "id": "4218bbde173a3369",
+      "styleAttributes": {
+      },
+      "toNode": "6949be1930ab6fea",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "4f851198ed190296",
+      "fromSide": "right",
+      "id": "abb7e165e9b59627",
+      "styleAttributes": {
+      },
+      "toNode": "325dd3138a1d333e",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "d07526d73624a5e3",
+      "fromSide": "right",
+      "id": "ae45b529d7e312ab",
+      "styleAttributes": {
+      },
+      "toNode": "690b819c21fe525d",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "6949be1930ab6fea",
+      "fromSide": "right",
+      "id": "510a02e4a72b92a2",
+      "styleAttributes": {
+      },
+      "toNode": "e7e3068b81993c32",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "6949be1930ab6fea",
+      "fromSide": "right",
+      "id": "ae74ae3ff214e87a",
+      "styleAttributes": {
+      },
+      "toNode": "7d0ba5f0979924a0",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "d07526d73624a5e3",
+      "fromSide": "right",
+      "id": "82d2e2e53e557109",
+      "styleAttributes": {
+      },
+      "toNode": "7d0ba5f0979924a0",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "5f2fd7b95a9a6c1e",
+      "fromSide": "right",
+      "id": "ddc48f61beecb0e3",
+      "styleAttributes": {
+      },
+      "toNode": "d07526d73624a5e3",
+      "toSide": "left"
     }
   ],
   "metadata": {
@@ -583,18 +655,6 @@
       "width": 260,
       "x": -420,
       "y": 1240
-    },
-    {
-      "height": 60,
-      "id": "bd20fea497cb21f2",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "**ATHLETICS**",
-      "type": "text",
-      "width": 260,
-      "x": -420,
-      "y": 1340
     },
     {
       "height": 60,
@@ -970,6 +1030,78 @@
       "width": 320,
       "x": 670,
       "y": -480
+    },
+    {
+      "height": 60,
+      "id": "d07526d73624a5e3",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "**NETWORKING**",
+      "type": "text",
+      "width": 260,
+      "x": 140,
+      "y": 940
+    },
+    {
+      "height": 60,
+      "id": "6949be1930ab6fea",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "**ADMINISTRATION**",
+      "type": "text",
+      "width": 260,
+      "x": 140,
+      "y": 1340
+    },
+    {
+      "height": 60,
+      "id": "4f851198ed190296",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "**COREWISE**",
+      "type": "text",
+      "width": 260,
+      "x": -420,
+      "y": 1340
+    },
+    {
+      "height": 60,
+      "id": "bd20fea497cb21f2",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "**ATHLETICS**",
+      "type": "text",
+      "width": 260,
+      "x": -420,
+      "y": 1440
+    },
+    {
+      "height": 60,
+      "id": "e7e3068b81993c32",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "**LAWFARE**",
+      "type": "text",
+      "width": 260,
+      "x": 700,
+      "y": 1340
+    },
+    {
+      "height": 60,
+      "id": "7d0ba5f0979924a0",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "**FINANCE**",
+      "type": "text",
+      "width": 260,
+      "x": 700,
+      "y": 1240
     }
   ]
 }
