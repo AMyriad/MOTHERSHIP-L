@@ -42,20 +42,22 @@
   - **[[Ruud "Deadline"]]** - Inteq merc, veteran pilot. Pilots a Genghis-flavored pyro. Shameless Ruud Hoenkloewen copy.
 
 - ***Vox Populi/Falgriff's Army***
-   - [[Ursula Fitzroy]] - Leader of the Vox Populi. Good leader, honest person. Fights for her people and wants the other factions to GTFO.
+   - [[Ursula Fitzroy]] - Leader of the Vox Populi. Good leader, honest person. Partnered their militia with Harrison Armory for support. Fights for her people and wants the other factions to GTFO. Will welcome an eventual integration into the Fifth Star.
    - [[Wen "Descension" Dalin]] - Vox's counterintel/logistics runner, veteran pilot. Pilots a Lich-flavored mirage (witch?). Shrewd.
+   - [[Name]] - Doesn't trust Fitzroy. Fervent independent; wants nothing to do with 5S/HA and is looking to usurp Fitzroy for the sake of keeping the Archipelago independently controlled.
 
 
 # **TIMELINE IF PLAYERS DO NOTHING**
  
-|               | **PALISADE ATTACKED**                                                                                                                                                                                                                                 | **BONEBUGS**                          |
-| ------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------- |
-| **PHASE ONE** | *"PALANQUIN ATTACKED BY ROGUE TITAN!*<br>[[SrRep. Adam Jeung]] and [[Cmdr. Marc Mingle]] are quick to investigate, soon learning the attack was carried out by [[Llewellyn Caid]]'s COMP/CON, and something to do with [[Cpt. Markusz Hask]].<br><br> | Falgriff's Refuge is actually an egg. |
-|               |                                                                                                                                                                                                                                                       |                                       |
-|               |                                                                                                                                                                                                                                                       |                                       |
+|         | **PALISADE ATTACKED**                                                                                                                                                                                                                                                                                                                                                                                            | **BONEBUGS**                                                                                |
+| ------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
+| **PH1** | *"PALANQUIN ATTACKED BY ROGUE TITAN!*<br>[[SrRep. Adam Jeung]] and [[Cmdr. Marc Mingle]] are quick to investigate, soon learning the attack was carried out by [[Llewellyn Caid]]'s COMP/CON, and something to do with [[Cpt. Markusz Hask]].<br><br>Station security detains Caid, but he's abducted overnight by a Constellar strike team to be put on "trial" in the Constellar Congress in the Palisade.<br> |                                                                                             |
+|         |                                                                                                                                                                                                                                                                                                                                                                                                                  |                                                                                             |
+|         |                                                                                                                                                                                                                                                                                                                                                                                                                  |                                                                                             |
+| **PH3** |                                                                                                                                                                                                                                                                                                                                                                                                                  | THE EGG in Falgriff's Refuge awakens. Doom falls upon all as what lies underneath consumes. |
 
 
-SSC
+SSC 
 HORUS
 IPS-N
 5S/HA (Vox)

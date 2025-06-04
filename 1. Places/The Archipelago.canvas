@@ -501,19 +501,6 @@
       "y": 713
     },
     {
-      "height": 103,
-      "id": "fe8f83dfdace6bc0",
-      "styleAttributes": {
-        "shape": "pill",
-        "textAlign": "center"
-      },
-      "text": "*Even even more secretly unironically still works for HORUS. Leaks crucial UIB info to select groups. Has maintained his cover for years.*",
-      "type": "text",
-      "width": 537,
-      "x": 574,
-      "y": 940
-    },
-    {
       "color": "1",
       "height": 60,
       "id": "cad0131dfe34f760",
@@ -549,6 +536,31 @@
       "width": 260,
       "x": 525,
       "y": -170
+    },
+    {
+      "height": 60,
+      "id": "303268f297da385c",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Falgriff's Frontiersfolk",
+      "type": "text",
+      "width": 240,
+      "x": -45,
+      "y": -330
+    },
+    {
+      "height": 103,
+      "id": "fe8f83dfdace6bc0",
+      "styleAttributes": {
+        "shape": "pill",
+        "textAlign": "center"
+      },
+      "text": "*Even even more secretly unironically still works for HORUS. Leaks crucial UIB info to select groups. Has maintained his cover for years.*",
+      "type": "text",
+      "width": 537,
+      "x": 574,
+      "y": 940
     },
     {
       "color": "4",
@@ -624,18 +636,6 @@
       "width": 260,
       "x": 915,
       "y": -100
-    },
-    {
-      "height": 60,
-      "id": "303268f297da385c",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "Falgriff's Frontiersfolk",
-      "type": "text",
-      "width": 240,
-      "x": -45,
-      "y": -330
     },
     {
       "height": 60,
@@ -734,17 +734,6 @@
       "y": -662
     },
     {
-      "height": 105,
-      "id": "514fedb27f1b06ff",
-      "styleAttributes": {
-      },
-      "text": "# FALGRIFF'S FRONTIERSFOLK",
-      "type": "text",
-      "width": 317,
-      "x": 3043,
-      "y": -684
-    },
-    {
       "height": 60,
       "id": "8ec2f9a20e4d304e",
       "styleAttributes": {
@@ -754,6 +743,29 @@
       "width": 220,
       "x": 2420,
       "y": -661
+    },
+    {
+      "height": 100,
+      "id": "10005d693510c72d",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "**Cpt. Markusz Hask**\nCaptain of the Anchorage (MISSING)",
+      "type": "text",
+      "width": 320,
+      "x": 2320,
+      "y": 0
+    },
+    {
+      "height": 105,
+      "id": "514fedb27f1b06ff",
+      "styleAttributes": {
+      },
+      "text": "# FALGRIFF'S FRONTIERSFOLK",
+      "type": "text",
+      "width": 317,
+      "x": 3043,
+      "y": -684
     },
     {
       "height": 60,
@@ -791,16 +803,74 @@
       "y": -110
     },
     {
-      "height": 100,
-      "id": "10005d693510c72d",
+      "height": 60,
+      "id": "e4f5125af249d358",
+      "styleAttributes": {
+      },
+      "text": "# VOX POPULI",
+      "type": "text",
+      "width": 260,
+      "x": 3750,
+      "y": -665
+    },
+    {
+      "height": 60,
+      "id": "985a23a606c5eca7",
+      "styleAttributes": {
+      },
+      "text": "# Crashlanders MCF",
+      "type": "text",
+      "width": 322,
+      "x": 3398,
+      "y": -663
+    },
+    {
+      "height": 60,
+      "id": "a810897a8d52a22d",
       "styleAttributes": {
         "textAlign": "center"
       },
-      "text": "**Cpt. Markusz Hask**\nCaptain of the Anchorage (MISSING)",
+      "text": "**MONARCH**\nArtificial Omniscience",
       "type": "text",
-      "width": 320,
-      "x": 2320,
-      "y": 0
+      "width": 260,
+      "x": 2420,
+      "y": 600
+    },
+    {
+      "height": 60,
+      "id": "4d3bde1db57a99ac",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "**Silus**\nPeregrine's Android Assistant & Bodyguard",
+      "type": "text",
+      "width": 346,
+      "x": 2927,
+      "y": 480
+    },
+    {
+      "height": 60,
+      "id": "9b1a97b9ed4531e6",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "**Llewellyn Caid**\nCrashlanders Pilot",
+      "type": "text",
+      "width": 166,
+      "x": 3914,
+      "y": 840
+    },
+    {
+      "height": 60,
+      "id": "05a4903df70dfb13",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "**Sera Peregrine**\nUnion Administrator",
+      "type": "text",
+      "width": 260,
+      "x": 2680,
+      "y": 200
     },
     {
       "height": 66,
@@ -849,28 +919,6 @@
     },
     {
       "height": 60,
-      "id": "e4f5125af249d358",
-      "styleAttributes": {
-      },
-      "text": "# VOX POPULI",
-      "type": "text",
-      "width": 260,
-      "x": 3750,
-      "y": -665
-    },
-    {
-      "height": 60,
-      "id": "985a23a606c5eca7",
-      "styleAttributes": {
-      },
-      "text": "# Crashlanders MCF",
-      "type": "text",
-      "width": 322,
-      "x": 3398,
-      "y": -663
-    },
-    {
-      "height": 60,
       "id": "260db440b3efdcd7",
       "styleAttributes": {
         "textAlign": "center"
@@ -880,42 +928,6 @@
       "width": 320,
       "x": 4080,
       "y": 50
-    },
-    {
-      "height": 60,
-      "id": "a810897a8d52a22d",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "**MONARCH**\nArtificial Omniscience",
-      "type": "text",
-      "width": 260,
-      "x": 2420,
-      "y": 600
-    },
-    {
-      "height": 60,
-      "id": "4d3bde1db57a99ac",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "**Silus**\nPeregrine's Android Assistant & Bodyguard",
-      "type": "text",
-      "width": 346,
-      "x": 2927,
-      "y": 480
-    },
-    {
-      "height": 60,
-      "id": "9b1a97b9ed4531e6",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "**Llewellyn Caid**\nCrashlanders Pilot",
-      "type": "text",
-      "width": 166,
-      "x": 3914,
-      "y": 840
     },
     {
       "height": 60,
@@ -940,18 +952,6 @@
       "width": 180,
       "x": 3420,
       "y": 740
-    },
-    {
-      "height": 60,
-      "id": "05a4903df70dfb13",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "**Sera Peregrine**\nUnion Administrator",
-      "type": "text",
-      "width": 260,
-      "x": 2680,
-      "y": 200
     }
   ]
 }
