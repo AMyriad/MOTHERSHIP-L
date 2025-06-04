@@ -99,6 +99,293 @@
       },
       "toNode": "fe8f83dfdace6bc0",
       "toSide": "top"
+    },
+    {
+      "fromNode": "94bf35e5db891c65",
+      "fromSide": "bottom",
+      "id": "7ab8f89c44296e75",
+      "styleAttributes": {
+        "arrow": "circle-outline"
+      },
+      "toNode": "6eef694f9e97ab7f",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "feea07596df7410a",
+      "fromSide": "left",
+      "id": "31dd9742f602adfb",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toEnd": "none",
+      "toNode": "228c5facbfcb9b12",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "feea07596df7410a",
+      "fromSide": "right",
+      "id": "ae7c1a4912828139",
+      "styleAttributes": {
+        "arrow": "blunt",
+        "pathfindingMethod": "square"
+      },
+      "toEnd": "none",
+      "toNode": "14fa79b8203c8d89",
+      "toSide": "top"
+    },
+    {
+      "fromEnd": "arrow",
+      "fromNode": "14fa79b8203c8d89",
+      "fromSide": "right",
+      "id": "ceecfb31505229b3",
+      "label": "IN CHARGE",
+      "styleAttributes": {
+        "arrow": "blunt",
+        "pathfindingMethod": "square"
+      },
+      "toNode": "260db440b3efdcd7",
+      "toSide": "left"
+    },
+    {
+      "fromEnd": "arrow",
+      "fromNode": "10005d693510c72d",
+      "fromSide": "right",
+      "id": "34f195e4c917bcfb",
+      "label": "SUPPOSED TO BE\nIN CHARGE\n(MISSING)",
+      "styleAttributes": {
+        "arrow": "blunt",
+        "pathfindingMethod": "square"
+      },
+      "toNode": "228c5facbfcb9b12",
+      "toSide": "left"
+    },
+    {
+      "fromEnd": "arrow",
+      "fromNode": "05a4903df70dfb13",
+      "fromSide": "bottom",
+      "id": "cac22e2f3fe26134",
+      "label": "ACTING CAPTAIN",
+      "styleAttributes": {
+        "arrow": "blunt",
+        "pathfindingMethod": "square"
+      },
+      "toNode": "228c5facbfcb9b12",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "4d3bde1db57a99ac",
+      "fromSide": "top",
+      "id": "5e846926a89db344",
+      "label": "PERSONAL ASSIST/BODYGUARD",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toNode": "05a4903df70dfb13",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "a810897a8d52a22d",
+      "fromSide": "right",
+      "id": "fabe46c7d187aaa4",
+      "label": "CONTROLS",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toNode": "4d3bde1db57a99ac",
+      "toSide": "bottom"
+    },
+    {
+      "fromEnd": "arrow",
+      "fromNode": "4d3bde1db57a99ac",
+      "fromSide": "right",
+      "id": "e9e685dcb395a3b7",
+      "label": "CO-CONSPIRATORS",
+      "styleAttributes": {
+        "arrow": "blunt",
+        "pathfindingMethod": "square"
+      },
+      "toNode": "05a4903df70dfb13",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "a810897a8d52a22d",
+      "fromSide": "top",
+      "id": "28d713a29d228658",
+      "label": "CONTROLS",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toNode": "05a4903df70dfb13",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "260db440b3efdcd7",
+      "fromSide": "bottom",
+      "id": "a78134f7827f3f0b",
+      "label": "COOPERATES AGAINST UNREST?",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toNode": "05a4903df70dfb13",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "a810897a8d52a22d",
+      "fromSide": "top",
+      "id": "e1dc5a9923553ee9",
+      "label": "DISPOSED OF",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toNode": "10005d693510c72d",
+      "toSide": "bottom"
+    },
+    {
+      "color": "#7c5513",
+      "fromEnd": "arrow",
+      "fromNode": "514fedb27f1b06ff",
+      "fromSide": "bottom",
+      "id": "d3d3f1f1e7b3e08f",
+      "styleAttributes": {
+        "arrow": "blunt",
+        "path": "dotted",
+        "pathfindingMethod": "square"
+      },
+      "toNode": "10005d693510c72d",
+      "toSide": "left"
+    },
+    {
+      "color": "#000000",
+      "fromEnd": "arrow",
+      "fromNode": "8ec2f9a20e4d304e",
+      "fromSide": "left",
+      "id": "2acbb6a373e339be",
+      "styleAttributes": {
+        "arrow": "blunt",
+        "path": "dotted",
+        "pathfindingMethod": "square"
+      },
+      "toNode": "a810897a8d52a22d",
+      "toSide": "left"
+    },
+    {
+      "color": "#000000",
+      "fromEnd": "arrow",
+      "fromNode": "8ec2f9a20e4d304e",
+      "fromSide": "left",
+      "id": "267b48680dd336cc",
+      "styleAttributes": {
+        "arrow": "blunt",
+        "path": "dotted",
+        "pathfindingMethod": "square"
+      },
+      "toNode": "4d3bde1db57a99ac",
+      "toSide": "left"
+    },
+    {
+      "color": "#000000",
+      "fromEnd": "arrow",
+      "fromNode": "8ec2f9a20e4d304e",
+      "fromSide": "left",
+      "id": "a16b83688cf20608",
+      "styleAttributes": {
+        "arrow": "blunt",
+        "path": "dotted",
+        "pathfindingMethod": "square"
+      },
+      "toNode": "05a4903df70dfb13",
+      "toSide": "left"
+    },
+    {
+      "color": "1",
+      "fromEnd": "arrow",
+      "fromNode": "2539346fcd6861df",
+      "fromSide": "bottom",
+      "id": "de23171dfd407fad",
+      "styleAttributes": {
+        "arrow": "blunt",
+        "path": "dotted",
+        "pathfindingMethod": "square"
+      },
+      "toNode": "05a4903df70dfb13",
+      "toSide": "left"
+    },
+    {
+      "color": "1",
+      "fromEnd": "arrow",
+      "fromNode": "2539346fcd6861df",
+      "fromSide": "bottom",
+      "id": "e8443f82dd1a6a2e",
+      "styleAttributes": {
+        "arrow": "blunt",
+        "path": "dotted",
+        "pathfindingMethod": "square"
+      },
+      "toNode": "4d3bde1db57a99ac",
+      "toSide": "left"
+    },
+    {
+      "color": "3",
+      "fromNode": "7fc3cb7060f3056f",
+      "fromSide": "bottom",
+      "id": "c3203ad3b56f2730",
+      "styleAttributes": {
+        "arrow": "blunt",
+        "path": "dotted",
+        "pathfindingMethod": "square"
+      },
+      "toNode": "260db440b3efdcd7",
+      "toSide": "right"
+    },
+    {
+      "color": "#a36700",
+      "fromEnd": "arrow",
+      "fromNode": "985a23a606c5eca7",
+      "fromSide": "bottom",
+      "id": "8d9c559f3eaae50a",
+      "styleAttributes": {
+        "arrow": "blunt",
+        "path": "dotted",
+        "pathfindingMethod": "square"
+      },
+      "toNode": "9b1a97b9ed4531e6",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "260db440b3efdcd7",
+      "fromSide": "bottom",
+      "id": "32639dc78e74c241",
+      "label": "CAPTURED",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toNode": "9b1a97b9ed4531e6",
+      "toSide": "top"
+    },
+    {
+      "fromEnd": "arrow",
+      "fromNode": "26edd9058066eb92",
+      "fromSide": "bottom",
+      "id": "7f0f8fb8ba7c5eca",
+      "label": "ATTEMPTING TO RECOVER",
+      "styleAttributes": {
+        "arrow": "blunt",
+        "pathfindingMethod": "square"
+      },
+      "toNode": "9b1a97b9ed4531e6",
+      "toSide": "left"
+    },
+    {
+      "fromEnd": "arrow",
+      "fromNode": "84246a501e32536d",
+      "fromSide": "top",
+      "id": "7c0cd81e47cfd3b4",
+      "styleAttributes": {
+        "arrow": "blunt",
+        "pathfindingMethod": "square"
+      },
+      "toNode": "26edd9058066eb92",
+      "toSide": "bottom"
     }
   ],
   "nodes": [
@@ -107,6 +394,8 @@
       "height": 620,
       "id": "eb40950a0e4bddb2",
       "label": "Team Union",
+      "styleAttributes": {
+      },
       "type": "group",
       "width": 1640,
       "x": -460,
@@ -117,117 +406,60 @@
       "height": 680,
       "id": "9a67f9a7c158eee0",
       "label": "Team HORUS",
+      "styleAttributes": {
+      },
       "type": "group",
-      "width": 720,
-      "x": 480,
+      "width": 700,
+      "x": 500,
       "y": 420
     },
     {
+      "color": "#9f7e38",
+      "height": 393,
+      "id": "62e8de1970dc98fe",
+      "label": "Team Crashlanders",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 680,
+      "x": 1300,
+      "y": 320
+    },
+    {
       "color": "2",
-      "height": 300,
+      "height": 274,
       "id": "1fc502d372907867",
       "label": "Team Monarch",
       "styleAttributes": {
         "border": "dotted"
       },
       "type": "group",
-      "width": 1160,
-      "x": -720,
+      "width": 930,
+      "x": -480,
       "y": 560
     },
     {
       "height": 290,
       "id": "bab4022a6d9ade41",
       "label": "The Archipelago",
+      "styleAttributes": {
+      },
       "type": "group",
       "width": 650,
-      "x": -150,
-      "y": -130
+      "x": 525,
+      "y": -240
     },
     {
-      "height": 60,
-      "id": "b81646e8f9846073",
+      "color": "3",
+      "height": 240,
+      "id": "ac63471b69b5c2e1",
+      "label": "Team AST/SSC",
       "styleAttributes": {
-        "textAlign": "center"
       },
-      "text": "Rendoone",
-      "type": "text",
-      "width": 260,
-      "x": 240,
-      "y": 10
-    },
-    {
-      "height": 60,
-      "id": "7be7abcd43f36198",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "Verge's Rock",
-      "type": "text",
-      "width": 260,
-      "x": 240,
-      "y": -60
-    },
-    {
-      "height": 60,
-      "id": "37e746b1ed53d758",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "Athos",
-      "type": "text",
-      "width": 260,
-      "x": 240,
-      "y": -130
-    },
-    {
-      "height": 60,
-      "id": "fef8e47c920a2f04",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "Canaan's Anchorage",
-      "type": "text",
-      "width": 260,
-      "x": 240,
-      "y": 100
-    },
-    {
-      "height": 60,
-      "id": "7d4ddfd3af1a0942",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "Falgriff's Refuge",
-      "type": "text",
-      "width": 260,
-      "x": -150,
-      "y": -60
-    },
-    {
-      "height": 60,
-      "id": "303268f297da385c",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "Falgriff's Frontiersfolk",
-      "type": "text",
-      "width": 240,
-      "x": -720,
-      "y": -220
-    },
-    {
-      "color": "1",
-      "height": 60,
-      "id": "9fc5e680a87d8742",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "**Silus**\nPeregrine's Android Assistant & Bodyguard",
-      "type": "text",
-      "width": 346,
-      "x": 57,
-      "y": 600
+      "type": "group",
+      "width": 560,
+      "x": 1380,
+      "y": -120
     },
     {
       "height": 60,
@@ -241,6 +473,19 @@
       "width": 440,
       "x": -440,
       "y": 713
+    },
+    {
+      "color": "1",
+      "height": 60,
+      "id": "9fc5e680a87d8742",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "**Silus**\nPeregrine's Android Assistant & Bodyguard",
+      "type": "text",
+      "width": 346,
+      "x": 57,
+      "y": 600
     },
     {
       "height": 90,
@@ -269,6 +514,43 @@
       "y": 940
     },
     {
+      "color": "1",
+      "height": 60,
+      "id": "cad0131dfe34f760",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "**Sera Peregrine**\nUnion Administrator",
+      "type": "text",
+      "width": 260,
+      "x": -350,
+      "y": 570
+    },
+    {
+      "height": 60,
+      "id": "37e746b1ed53d758",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Athos",
+      "type": "text",
+      "width": 260,
+      "x": 915,
+      "y": -240
+    },
+    {
+      "height": 60,
+      "id": "7d4ddfd3af1a0942",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Falgriff's Refuge",
+      "type": "text",
+      "width": 260,
+      "x": 525,
+      "y": -170
+    },
+    {
       "color": "4",
       "height": 60,
       "id": "9fa333507c9deef0",
@@ -295,19 +577,6 @@
       "y": 615
     },
     {
-      "color": "1",
-      "height": 60,
-      "id": "cad0131dfe34f760",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "**Sera Peregrine**\nUnion Administrator",
-      "type": "text",
-      "width": 260,
-      "x": -350,
-      "y": 570
-    },
-    {
       "height": 132,
       "id": "3802a4259e0d027f",
       "styleAttributes": {
@@ -319,6 +588,370 @@
       "width": 640,
       "x": 522,
       "y": 768
+    },
+    {
+      "height": 60,
+      "id": "7be7abcd43f36198",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Verge's Rock",
+      "type": "text",
+      "width": 260,
+      "x": 915,
+      "y": -170
+    },
+    {
+      "height": 60,
+      "id": "fef8e47c920a2f04",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Canaan's Anchorage",
+      "type": "text",
+      "width": 260,
+      "x": 915,
+      "y": -10
+    },
+    {
+      "height": 60,
+      "id": "b81646e8f9846073",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Rendoone",
+      "type": "text",
+      "width": 260,
+      "x": 915,
+      "y": -100
+    },
+    {
+      "height": 60,
+      "id": "303268f297da385c",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Falgriff's Frontiersfolk",
+      "type": "text",
+      "width": 240,
+      "x": -45,
+      "y": -330
+    },
+    {
+      "height": 60,
+      "id": "02bcd34a716e0f37",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "**Liza \"Hail Mary\"**",
+      "type": "text",
+      "width": 320,
+      "x": 1441,
+      "y": -440
+    },
+    {
+      "height": 60,
+      "id": "de7be4efd6285747",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "**Jayce Chavez**\nCrashlanders Mechanic",
+      "type": "text",
+      "width": 260,
+      "x": 1320,
+      "y": 460
+    },
+    {
+      "height": 80,
+      "id": "6dd6dff24ff49f4c",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "**Cmdr. Marc Mingle**\nHead of Security and Crashlanders Commander",
+      "type": "text",
+      "width": 240,
+      "x": 1540,
+      "y": 340
+    },
+    {
+      "height": 60,
+      "id": "59a02a4bf909cebc",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "**Wen \"Descension\" Dalin**",
+      "type": "text",
+      "width": 260,
+      "x": 1800,
+      "y": -500
+    },
+    {
+      "height": 60,
+      "id": "22a3b4998b2c357f",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "**Leon \"Strikebreaker\" Moreau**",
+      "type": "text",
+      "width": 320,
+      "x": 1480,
+      "y": -620
+    },
+    {
+      "height": 60,
+      "id": "94bf35e5db891c65",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "**Sr. Rep Adam Jeung**\nAST Rep and Manager of the Palanquin",
+      "type": "text",
+      "width": 320,
+      "x": 1500,
+      "y": -80
+    },
+    {
+      "height": 60,
+      "id": "6eef694f9e97ab7f",
+      "styleAttributes": {
+        "shape": "pill",
+        "textAlign": "center"
+      },
+      "text": "*Semi-secretly works for SSC, the real parent company of AST.*",
+      "type": "text",
+      "width": 515,
+      "x": 1403,
+      "y": 30
+    },
+    {
+      "height": 60,
+      "id": "2539346fcd6861df",
+      "styleAttributes": {
+      },
+      "text": "# UNION",
+      "type": "text",
+      "width": 260,
+      "x": 2720,
+      "y": -662
+    },
+    {
+      "height": 105,
+      "id": "514fedb27f1b06ff",
+      "styleAttributes": {
+      },
+      "text": "# FALGRIFF'S FRONTIERSFOLK",
+      "type": "text",
+      "width": 317,
+      "x": 3043,
+      "y": -684
+    },
+    {
+      "height": 60,
+      "id": "8ec2f9a20e4d304e",
+      "styleAttributes": {
+      },
+      "text": "# MONARCH",
+      "type": "text",
+      "width": 220,
+      "x": 2420,
+      "y": -661
+    },
+    {
+      "height": 60,
+      "id": "228c5facbfcb9b12",
+      "styleAttributes": {
+      },
+      "text": "## **The Anchorage**",
+      "type": "text",
+      "width": 260,
+      "x": 3100,
+      "y": -110
+    },
+    {
+      "height": 80,
+      "id": "feea07596df7410a",
+      "styleAttributes": {
+        "shape": null,
+        "textAlign": null
+      },
+      "text": "# **Canaan's Anchorage**",
+      "type": "text",
+      "width": 360,
+      "x": 3360,
+      "y": -290
+    },
+    {
+      "height": 60,
+      "id": "14fa79b8203c8d89",
+      "styleAttributes": {
+      },
+      "text": "## **The Palanquin**",
+      "type": "text",
+      "width": 260,
+      "x": 3660,
+      "y": -110
+    },
+    {
+      "height": 100,
+      "id": "10005d693510c72d",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "**Cpt. Markusz Hask**\nCaptain of the Anchorage (MISSING)",
+      "type": "text",
+      "width": 320,
+      "x": 2320,
+      "y": 0
+    },
+    {
+      "height": 66,
+      "id": "1fb2f42d3d4f0645",
+      "styleAttributes": {
+      },
+      "text": "# 5S/HA",
+      "type": "text",
+      "width": 153,
+      "x": 4277,
+      "y": -665
+    },
+    {
+      "height": 60,
+      "id": "7fc3cb7060f3056f",
+      "styleAttributes": {
+      },
+      "text": "# AST/SSC",
+      "type": "text",
+      "width": 260,
+      "x": 4490,
+      "y": -665
+    },
+    {
+      "height": 60,
+      "id": "79375e7d48ec632d",
+      "styleAttributes": {
+      },
+      "text": "# HORUS",
+      "type": "text",
+      "width": 200,
+      "x": 4790,
+      "y": -665
+    },
+    {
+      "height": 60,
+      "id": "e41ddbe7f9409d8a",
+      "styleAttributes": {
+        "textAlign": null
+      },
+      "text": "# IPS-N",
+      "type": "text",
+      "width": 170,
+      "x": 4070,
+      "y": -663
+    },
+    {
+      "height": 60,
+      "id": "e4f5125af249d358",
+      "styleAttributes": {
+      },
+      "text": "# VOX POPULI",
+      "type": "text",
+      "width": 260,
+      "x": 3750,
+      "y": -665
+    },
+    {
+      "height": 60,
+      "id": "985a23a606c5eca7",
+      "styleAttributes": {
+      },
+      "text": "# Crashlanders MCF",
+      "type": "text",
+      "width": 322,
+      "x": 3398,
+      "y": -663
+    },
+    {
+      "height": 60,
+      "id": "260db440b3efdcd7",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "**Sr. Rep Adam Jeung**\nAST Rep and Manager of the Palanquin",
+      "type": "text",
+      "width": 320,
+      "x": 4080,
+      "y": 50
+    },
+    {
+      "height": 60,
+      "id": "a810897a8d52a22d",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "**MONARCH**\nArtificial Omniscience",
+      "type": "text",
+      "width": 260,
+      "x": 2420,
+      "y": 600
+    },
+    {
+      "height": 60,
+      "id": "4d3bde1db57a99ac",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "**Silus**\nPeregrine's Android Assistant & Bodyguard",
+      "type": "text",
+      "width": 346,
+      "x": 2927,
+      "y": 480
+    },
+    {
+      "height": 60,
+      "id": "9b1a97b9ed4531e6",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "**Llewellyn Caid**\nCrashlanders Pilot",
+      "type": "text",
+      "width": 166,
+      "x": 3914,
+      "y": 840
+    },
+    {
+      "height": 60,
+      "id": "26edd9058066eb92",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "**Cmdr. Marc Mingle**\nHead of Security, Crashlanders CO",
+      "type": "text",
+      "width": 312,
+      "x": 3560,
+      "y": 560
+    },
+    {
+      "height": 60,
+      "id": "84246a501e32536d",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "**Jayce Chavez**\nCrashlanders Pilot",
+      "type": "text",
+      "width": 180,
+      "x": 3420,
+      "y": 740
+    },
+    {
+      "height": 60,
+      "id": "05a4903df70dfb13",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "**Sera Peregrine**\nUnion Administrator",
+      "type": "text",
+      "width": 260,
+      "x": 2680,
+      "y": 200
     }
   ]
 }

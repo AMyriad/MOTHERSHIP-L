@@ -4,24 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "90263cf5410410f9",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "f149fd5b92906382",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "1. Places/The Archipelago.canvas",
-                "viewState": {
-                  "x": 572.2253873311388,
-                  "y": 650.6716691003629,
-                  "zoom": -0.924074020385742
-                }
+                "file": "Landing Page.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "The Archipelago"
+              "icon": "lucide-file",
+              "title": "Landing Page"
             }
           }
         ]
@@ -174,32 +171,36 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "e90edbec89310be8",
   "lastOpenFiles": [
+    "3. Factions/3.3 Corespace/HORUS.md",
+    "0. Missions/0.1 Another Bug Hunt.md",
     "Landing Page.md",
-    "1. Places/The Archipelago.canvas",
-    "5. Data/Abstract.md",
     "1. Places/The Archipelago.md",
-    "1. Places/Map.canvas",
+    "Strikebreaker.md",
+    "Silus.md",
+    "Llewellyn Caid.md",
+    "3. Factions/3.2 Corpro-states/IPS-Northstar (IPS-N).md",
+    "3. Factions/3.2 Corpro-states/Smith-Shimano Corpro (SSC).md",
+    "2. People/Renfield.md",
+    "1. Places/The Archipelago.canvas",
+    "Mr. York.md",
+    "2. People/Dr. Edem.md",
+    "2. People/Anders.md",
+    "0. Missions/0. Template.md",
     "0. Missions/0.0 Mission Index.md",
     "1. Places/1.0 Place Index.md",
-    "0. Missions/0.1 Another Bug Hunt.md",
-    "0. Missions/0. Template.md",
-    "1. Places/Samsa VI.md",
     "1. Places/J2C-I Metamorphosis.md",
+    "1. Places/Map.canvas",
+    "5. Data/Abstract.md",
+    "1. Places/Samsa VI.md",
     "2. People/2.0 People Index.md",
-    "2. People/Anders.md",
-    "2. People/Dr. Edem.md",
     "2. People/Maas.md",
     "2. People/Hinton.md",
-    "2. People/Renfield.md",
     "2. People/SSgt. Underhill.md",
     "4. Threats/4.0 Threat Index.md",
     "4. Threats/4.1 Carcinids.md",
     "3. Factions/3.2 Corpro-states/General Massive Systems (GMS).md",
-    "3. Factions/3.2 Corpro-states/Harrison Armory (HA).md",
-    "3. Factions/3.2 Corpro-states/Smith-Shimano Corpro (SSC).md",
-    "3. Factions/3.2 Corpro-states/IPS-Northstar (IPS-N).md",
     "1. Places/Untitled 2.canvas",
     "1. Places/Untitled 1.canvas",
     "(Images)/Places/Athos (Full).png",
@@ -207,9 +208,6 @@
     "(Images)/Places/Verge's Rock (Full).png",
     "(Images)/Places/Falgriff's Refuge (Full).png",
     "(Images)/Places/Athos.png",
-    "3. Factions/3.1 Central Powers/Fifth Star.md",
-    "5. Data/5.1 Inflection Points.md",
-    "3. Factions/3.3 Corespace/HORUS.md",
     "(Images)/Places/Falgriff's Refuge.png",
     "(Images)/Places/Archipelago (Unfinished).png",
     "(Images)/Factions/SSC.png",
