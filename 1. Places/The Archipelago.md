@@ -1,9 +1,9 @@
 
-| ![[Falgriff's Refuge.png]] |
-| :------------------------: |
-|    **THE ARCHIPELAGO**     |
-| *LOCAL POINT OF INTEREST*  |
-
+|    [[Falgriff's Refuge    |
+| :-----------------------: |
+|    **THE ARCHIPELAGO**    |
+| *LOCAL POINT OF INTEREST* |
+# **OVERVIEW**
 
 **PLACES:**
 - **[[Canaan's Anchorage]]**
