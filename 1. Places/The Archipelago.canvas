@@ -603,6 +603,54 @@
     },
     {
       "height": 60,
+      "id": "de7be4efd6285747",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "**Jayce Chavez**\nCrashlanders Mechanic",
+      "type": "text",
+      "width": 260,
+      "x": 1320,
+      "y": 460
+    },
+    {
+      "height": 80,
+      "id": "6dd6dff24ff49f4c",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "**Cmdr. Marc Mingle**\nHead of Security and Crashlanders Commander",
+      "type": "text",
+      "width": 240,
+      "x": 1540,
+      "y": 340
+    },
+    {
+      "height": 60,
+      "id": "a810897a8d52a22d",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "**MONARCH**\nArtificial Omniscience",
+      "type": "text",
+      "width": 260,
+      "x": 2420,
+      "y": 600
+    },
+    {
+      "height": 60,
+      "id": "4d3bde1db57a99ac",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "**Silus**\nPeregrine's Android Assistant & Bodyguard",
+      "type": "text",
+      "width": 346,
+      "x": 2927,
+      "y": 480
+    },
+    {
+      "height": 60,
       "id": "7be7abcd43f36198",
       "styleAttributes": {
         "textAlign": "center"
@@ -651,27 +699,64 @@
     },
     {
       "height": 60,
-      "id": "de7be4efd6285747",
+      "id": "22a3b4998b2c357f",
       "styleAttributes": {
         "textAlign": "center"
       },
-      "text": "**Jayce Chavez**\nCrashlanders Mechanic",
+      "text": "**Leon \"Strikebreaker\" Moreau**",
       "type": "text",
-      "width": 260,
-      "x": 1320,
-      "y": 460
+      "width": 320,
+      "x": 1480,
+      "y": -620
     },
     {
-      "height": 80,
-      "id": "6dd6dff24ff49f4c",
+      "height": 60,
+      "id": "6eef694f9e97ab7f",
+      "styleAttributes": {
+        "shape": "pill",
+        "textAlign": "center"
+      },
+      "text": "*Semi-secretly works for SSC, the real parent company of AST.*",
+      "type": "text",
+      "width": 515,
+      "x": 1403,
+      "y": 30
+    },
+    {
+      "height": 60,
+      "id": "9b1a97b9ed4531e6",
       "styleAttributes": {
         "textAlign": "center"
       },
-      "text": "**Cmdr. Marc Mingle**\nHead of Security and Crashlanders Commander",
+      "text": "**Llewellyn Caid**\nCrashlanders Pilot",
       "type": "text",
-      "width": 240,
-      "x": 1540,
-      "y": 340
+      "width": 166,
+      "x": 3914,
+      "y": 840
+    },
+    {
+      "height": 60,
+      "id": "26edd9058066eb92",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "**Cmdr. Marc Mingle**\nHead of Security, Crashlanders CO",
+      "type": "text",
+      "width": 312,
+      "x": 3560,
+      "y": 560
+    },
+    {
+      "height": 60,
+      "id": "84246a501e32536d",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "**Jayce Chavez**\nCrashlanders Pilot",
+      "type": "text",
+      "width": 180,
+      "x": 3420,
+      "y": 740
     },
     {
       "height": 60,
@@ -687,18 +772,6 @@
     },
     {
       "height": 60,
-      "id": "22a3b4998b2c357f",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "**Leon \"Strikebreaker\" Moreau**",
-      "type": "text",
-      "width": 320,
-      "x": 1480,
-      "y": -620
-    },
-    {
-      "height": 60,
       "id": "94bf35e5db891c65",
       "styleAttributes": {
         "textAlign": "center"
@@ -708,19 +781,6 @@
       "width": 320,
       "x": 1500,
       "y": -80
-    },
-    {
-      "height": 60,
-      "id": "6eef694f9e97ab7f",
-      "styleAttributes": {
-        "shape": "pill",
-        "textAlign": "center"
-      },
-      "text": "*Semi-secretly works for SSC, the real parent company of AST.*",
-      "type": "text",
-      "width": 515,
-      "x": 1403,
-      "y": 30
     },
     {
       "height": 60,
@@ -793,6 +853,29 @@
     },
     {
       "height": 60,
+      "id": "985a23a606c5eca7",
+      "styleAttributes": {
+      },
+      "text": "# Crashlanders MCF",
+      "type": "text",
+      "width": 322,
+      "x": 3398,
+      "y": -663
+    },
+    {
+      "height": 60,
+      "id": "05a4903df70dfb13",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "**Sera Peregrine**\nUnion Administrator",
+      "type": "text",
+      "width": 260,
+      "x": 2680,
+      "y": 200
+    },
+    {
+      "height": 60,
       "id": "14fa79b8203c8d89",
       "styleAttributes": {
       },
@@ -812,65 +895,6 @@
       "width": 260,
       "x": 3750,
       "y": -665
-    },
-    {
-      "height": 60,
-      "id": "985a23a606c5eca7",
-      "styleAttributes": {
-      },
-      "text": "# Crashlanders MCF",
-      "type": "text",
-      "width": 322,
-      "x": 3398,
-      "y": -663
-    },
-    {
-      "height": 60,
-      "id": "a810897a8d52a22d",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "**MONARCH**\nArtificial Omniscience",
-      "type": "text",
-      "width": 260,
-      "x": 2420,
-      "y": 600
-    },
-    {
-      "height": 60,
-      "id": "4d3bde1db57a99ac",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "**Silus**\nPeregrine's Android Assistant & Bodyguard",
-      "type": "text",
-      "width": 346,
-      "x": 2927,
-      "y": 480
-    },
-    {
-      "height": 60,
-      "id": "9b1a97b9ed4531e6",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "**Llewellyn Caid**\nCrashlanders Pilot",
-      "type": "text",
-      "width": 166,
-      "x": 3914,
-      "y": 840
-    },
-    {
-      "height": 60,
-      "id": "05a4903df70dfb13",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "**Sera Peregrine**\nUnion Administrator",
-      "type": "text",
-      "width": 260,
-      "x": 2680,
-      "y": 200
     },
     {
       "height": 66,
@@ -928,30 +952,6 @@
       "width": 320,
       "x": 4080,
       "y": 50
-    },
-    {
-      "height": 60,
-      "id": "26edd9058066eb92",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "**Cmdr. Marc Mingle**\nHead of Security, Crashlanders CO",
-      "type": "text",
-      "width": 312,
-      "x": 3560,
-      "y": 560
-    },
-    {
-      "height": 60,
-      "id": "84246a501e32536d",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "**Jayce Chavez**\nCrashlanders Pilot",
-      "type": "text",
-      "width": 180,
-      "x": 3420,
-      "y": 740
     }
   ]
 }

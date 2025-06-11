@@ -1,0 +1,213 @@
+{
+  "edges": [
+    {
+      "fromNode": "a573391ae70fe6ed",
+      "fromSide": "right",
+      "id": "e0aecfebde0ce5e3",
+      "styleAttributes": {
+      },
+      "toNode": "8ada27f6c4b9e420",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "8ada27f6c4b9e420",
+      "fromSide": "right",
+      "id": "2b707ae254e7b399",
+      "styleAttributes": {
+      },
+      "toNode": "e8129395d4564edc",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "8ada27f6c4b9e420",
+      "fromSide": "right",
+      "id": "de9425dae63b3fd8",
+      "styleAttributes": {
+      },
+      "toNode": "641fc2283ba71b5b",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "e8129395d4564edc",
+      "fromSide": "right",
+      "id": "7500f2dbe3856684",
+      "styleAttributes": {
+      },
+      "toNode": "0864815fa14d1d84",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "bf7be9f3b1507e27",
+      "fromSide": "top",
+      "id": "2c15ad72a1dc5d93",
+      "styleAttributes": {
+        "arrow": "circle-outline",
+        "path": "dotted"
+      },
+      "toNode": "b832eb06df4548ff",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "641fc2283ba71b5b",
+      "fromSide": "right",
+      "id": "d536193d59ba9112",
+      "styleAttributes": {
+      },
+      "toNode": "bf7be9f3b1507e27",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "0864815fa14d1d84",
+      "fromSide": "right",
+      "id": "37709e47df7ad9a6",
+      "styleAttributes": {
+        "path": null
+      },
+      "toNode": "2fcf66a89a0dabde",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "2fcf66a89a0dabde",
+      "fromSide": "bottom",
+      "id": "cb26f6ae6ce6a718",
+      "styleAttributes": {
+        "arrow": "circle-outline",
+        "path": "dotted"
+      },
+      "toNode": "bb0478b60b943b50",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "bf7be9f3b1507e27",
+      "fromSide": "right",
+      "id": "7be796c9297aab6a",
+      "styleAttributes": {
+      },
+      "toNode": "ea4d4456552d5e34",
+      "toSide": "left"
+    }
+  ],
+  "nodes": [
+    {
+      "height": 240,
+      "id": "a573391ae70fe6ed",
+      "styleAttributes": {
+        "textAlign": null
+      },
+      "text": "# **MISSION START**\nThe crew awakens from cryosleep in orbit of [[Samsa VI]] aboard the [[J2C-I Metamorphosis]]and is briefed by [[Maas]]. Supplies are gathered before [[Anders]] and [[Renfield]] take the crew to the surface in a dropship. The drop is made quick on account of the storm picking up, and thus the dropship heads back, leaving the crew at Greta Forward Base.",
+      "type": "text",
+      "width": 520,
+      "x": -120,
+      "y": -20
+    },
+    {
+      "height": 60,
+      "id": "8ada27f6c4b9e420",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "*Midnight.*\nCrew approaches Greta Base.",
+      "type": "text",
+      "width": 260,
+      "x": 480,
+      "y": 70
+    },
+    {
+      "height": 70,
+      "id": "e8129395d4564edc",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Garage opened and alerted **Carcinid (Sgt. Abara)**.",
+      "type": "text",
+      "width": 420,
+      "x": 820,
+      "y": 130
+    },
+    {
+      "height": 90,
+      "id": "641fc2283ba71b5b",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Front airlocks are hacked without ID access; bolts break and lock.",
+      "type": "text",
+      "width": 340,
+      "x": 820,
+      "y": -20
+    },
+    {
+      "height": 250,
+      "id": "0864815fa14d1d84",
+      "styleAttributes": {
+        "textAlign": null
+      },
+      "text": "### **VIOLENT ENCOUNTER**\n**Cpl. Gonzo:** *Bifurcated. Instant death.*\n**Lucy:** Takes *1 Wound* running to the APC; finds **Demar**.\n**Pale:** Fires on the carc with her smart rifle, finds out their armor is very tough; runs away back to the entrance.\n**Mai Shayla:** Distracts carc fighting in close-quarters. *Face mauled. Death from bloodloss eventually.*",
+      "type": "text",
+      "width": 500,
+      "x": 1320,
+      "y": 130
+    },
+    {
+      "height": 150,
+      "id": "bf7be9f3b1507e27",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "- Pulse rifle magazines discovered.\n- *Commissary* explored.\n- *Dogtags Recovered:*\n  - LCpl. Xavier\n\n",
+      "type": "text",
+      "width": 300,
+      "x": 1320,
+      "y": -80
+    },
+    {
+      "height": 140,
+      "id": "b832eb06df4548ff",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": " **Reiner** and **Yuri** infected with cancer pattern from using suit comms; discover paper cuts symptom.",
+      "type": "text",
+      "width": 340,
+      "x": 1400,
+      "y": -320
+    },
+    {
+      "height": 270,
+      "id": "2fcf66a89a0dabde",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "**Lucy** backs up and rams the APC into the carc while its distracted; APC lands in the pit. Carc takes *1 Wound* and enters escape mode.\n\n**Pale** and **Edward** find **Mai Shayla's** and **Cpl. Gonzo's corpses.**\n\n**->** Could we have better emphasized the danger Demar posed here? If it were better telegraped we could have triggered his meltdown when the APC crashed in the ditch.",
+      "type": "text",
+      "width": 530,
+      "x": 1920,
+      "y": 130
+    },
+    {
+      "height": 120,
+      "id": "bb0478b60b943b50",
+      "styleAttributes": {
+        "border": null,
+        "textAlign": "center"
+      },
+      "text": " **Carcinid (Sgt. Abara)** flees the scene, wounded; leaves behind a trail as it runs back to the *Mothership*.",
+      "type": "text",
+      "width": 310,
+      "x": 2100,
+      "y": 500
+    },
+    {
+      "height": 170,
+      "id": "ea4d4456552d5e34",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "- *Medbay/Lab* explored.\n   - *Dr. Edem's Logbook* found.\n   - *Hydro-acid Contained* found.\n   - Medical machinery discovered.\n",
+      "type": "text",
+      "width": 340,
+      "x": 1920,
+      "y": -100
+    }
+  ]
+}

@@ -28,13 +28,14 @@
    - IPS-N Contact [[IPS-Northstar (IPS-N)|(IPS-N)]]
    - HA Contact [[Harrison Armory (HA)|(HA)]]
 
-- ***Anchorage Staff***
-   - **[[Cpt. Markusz Hask]]** - The current elected captain of the Anchorage. Mysteriously gone missing a few days/weeks before the attack on the Palisade.
-
 - ***Crashlanders Titan MCF***
    - **[[Cmdr. Marc Mingle]]** - Competent, hard-boiled HoS and CO of the Crashlanders. Follows Peregrine's orders but eventually grows suspicious. Attempting to get Caid back.
    - **[[Jayce Chavez]]** - COMET pilot, friendly mechanic. Will often be the first sight crew sees after a mission.
    - **[[Llewellyn Caid]]** - COMET pilot. Mech was hacked by unknown source (Silus/MLE) and attacked Palisade. Currently detained by Constellar Security aboard the Palisade, awaiting "trial" in Constellar Congress.
+
+- ***Anchorage Denizens***
+   - **[[Cpt. Markusz Hask]]** - The current elected captain of the Anchorage. Mysteriously gone missing a few days/weeks before the attack on the Palisade.
+   - **[[Oscar]]** - EUCLID slickrunner. Mr. York's HORUS contact who will want to vet any potential customers before doing business with BAXTER.
 
 - ***IRMG***
   - **[[Raul "Strikebreaker"]]** - Inteq merc, veteran pilot. Pilots an Atlas-flavored berserker. Initially neutral to players unless they have a corporate bounty. Fervent ultraliberal, like combination between Iosif and Raul.
