@@ -34,13 +34,13 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "0. Missions": "LiAlertTriangle",
-  "1. Places": "LiAlignEndHorizontal",
-  "2. People": "LiAnnoyed",
   "Landing Page.md": "LiAperture",
-  "Abstract.md": "LiAxis3d",
   "(Images)": "LiBadge",
-  "3. Factions": "LiAtom",
-  "4. Threats": "LiActivity",
-  "5. Data": "LiAlignLeft"
+  "MOTHERSHIP-L/0. Missions": "LiAlertTriangle",
+  "MOTHERSHIP-L/1. Places": "LiAlignEndHorizontal",
+  "MOTHERSHIP-L/2. People": "LiAnnoyed",
+  "MOTHERSHIP-L/3. Factions": "LiAtom",
+  "MOTHERSHIP-L/4. Threats": "LiActivity",
+  "MOTHERSHIP-L/5. Data": "LiAlignLeft",
+  "MOTHERSHIP-L/Abstract.md": "LiAxis3d"
 }
