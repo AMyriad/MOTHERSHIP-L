@@ -13,40 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LANCER-M6/Abstract.md",
+                "file": "Landing Page.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Abstract"
-            }
-          },
-          {
-            "id": "6ce3373694f7daa4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LANCER-M6/Pilot.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Pilot"
-            }
-          },
-          {
-            "id": "c491d42e396bff03",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MOTHERSHIP-L/3. Factions/3.1 Central Powers/Union.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Union"
+              "title": "Landing Page"
             }
           }
         ]
@@ -199,13 +171,14 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "e90edbec89310be8",
   "lastOpenFiles": [
-    "LANCER-M6/Pilot.md",
-    "MOTHERSHIP-L/3. Factions/3.1 Central Powers/Union.md",
-    "LANCER-M6/Abstract.md",
+    "LANCER-60XX/Pilot.md",
+    "LANCER-60XX/Abstract.md",
+    "MOTHERSHIP-L/1. Places/1.0 Place Index.md",
     "Landing Page.md",
-    "LANCER-M6",
+    "MOTHERSHIP-L/3. Factions/3.1 Central Powers/Union.md",
+    "LANCER-60XX",
     "MOTHERSHIP-L",
     "MOTHERSHIP-L/1. Places/The Archipelago.md",
     "MOTHERSHIP-L/1. Places/The Archipelago.canvas",
@@ -225,7 +198,6 @@
     "Mr. York.md",
     "MOTHERSHIP-L/2. People/Dr. Edem.md",
     "MOTHERSHIP-L/2. People/Anders.md",
-    "MOTHERSHIP-L/1. Places/1.0 Place Index.md",
     "MOTHERSHIP-L/1. Places/J2C-I Metamorphosis.md",
     "MOTHERSHIP-L/1. Places/Map.canvas",
     "MOTHERSHIP-L/1. Places/Samsa VI.md",
